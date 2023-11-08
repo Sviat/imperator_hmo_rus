@@ -1,0 +1,88 @@
+﻿l_russian:
+	trade_hover: "Наведите курсор на товар, чтобы выбрать его.\nНажмите на него, чтобы заблокировать выбор.\nНажмите 'Отмена', чтобы разблокировать.\n\n#tf Это позволяет быстро увидеть, готов ли кто-то торговать.\nОкно выбора может быть перемещено."
+	#added 23/02/2021:
+	select_on_hover: "Выбор при наведении" #trade import window
+	not_in_range: "Нет в дипломатическом радиусе" #in characters window, when doing a global search
+	#
+	mod_settings: "Настройки мода"
+	music_player: "Музыкальный проигрыватель"
+	skip: "Пропуск"
+	tracks: "Композиции"
+	names: "Имена"
+	base_game: "Базовая игра:" 
+	# are DLCs names translated to other languages?
+	timelapse: "Хронометраж/Timelapse"
+	timelapse_tt: "Открыть просмотр Хронометража/Timelapse"
+	movable_windows: "Подвижные окна"
+	movable_windows_tt: "Позволяет перетаскивать большинство окон"
+	tiny_flag: "Маленький флаг в левом верхнем углу"
+	hide_overview: "Скрыть кнопку 'Обзор державы'"
+	hide_overview_tt: "Чтобы открыть 'Обзор державы', можно нажать на флажок в левом верхнем углу"
+	hide_diplomacy: "Скрыть кнопку 'Дипломатия'"
+	topbar_research: "Исследования на верхней панели"
+	#
+	rmb_sue_for_peace: "#g Нажмите ПКМ, чтобы предложить мир" #war icon tooltip
+	rmb_trade_toggle: "#g Нажмите ПКМ, чтобы включить автоматическую торговлю" #trade button tooltip
+	#
+	#button on a window if you enable Movable Windows
+	reset_position: "#t Сброс положения окна"
+	#ledger#
+	wonders: "Чудеса"
+	treasures: "Сокровища"
+	in_reliquary: "В хранилище"
+	in_holy_sites: "В святых местах:"
+	# added 26/02/2021:
+	holy_site: "Святое место"
+	show_slave_surplus: "#t Рабы необходимые для получения излишков" # in list of territories
+	#in outliner:
+	territories: "Территории"
+	countries: "Страны"
+	remove_fav_tag: "Эта страна больше не существует!\n#g Нажмите, чтобы удалить."
+	fav: "#t Добавить в Планировщик" #star button
+	inventive: "#G Персонажи с этой чертой могут генерировать дополнительные Инновации, если они назначены на должность исследователя. Этот эффект может суммироваться.#!"
+	#added 07/03/2021
+	topbar_maintenance: "Содержание армии на верхней панели"
+	topbar_pops: "Население на верхней панели"
+	#browser:
+	browser: "Внутриигровой браузер"
+	browser_button: "#t $browser$"
+	go_back: "#t Назад"
+	go_forward: "#t Вперед"
+	reload: "#t Перезагрузить"
+	homepage: "#t Открыть Imperator Wiki"
+	browser_alpha: "#t Сделать окно прозрачным"
+	minimize: "#t Свернуть"
+	resize_corner: "Для изменения размера окна потяните за любой край"
+	bookmarks: "#t Закладки"
+	url_box_tt: "#g Нажмите для изменения\nНажмите Enter, Tab или нажмите кнопку мыши для подтверждения"
+	bookmark_tt: "#g Нажмите для выбора\nНажмите Enter, Tab или нажмите кнопку мыши для подтверждения"
+	wiki: "#t Imperator Wiki\n$bookmark_tt$"
+	ir_simulator: "#t IR симулятор боя\n$bookmark_tt$"
+	discord: "#t Веб-приложение Discord\n$bookmark_tt$"
+	reddit: "#t IR subreddit\n$bookmark_tt$"
+	#probably no need to translate OSTs
+	rome_ost: "#t Total War: Rome OST\n$bookmark_tt$"
+	rome2_ost: "#t Total War: Rome II OST\n$bookmark_tt$"
+	eu_rome_ost: "#t EU: Rome OST\n$bookmark_tt$"
+	#timelapse:
+	go_to_start: "Перейти к началу"
+	go_to_end: "Перейти к концу"
+	rewind: "Перемотка"
+	play_back: "Перемотать назад / Медленее"
+	stop: "Стоп"
+	play_faster: "Воспроизвести / Быстрее"
+	fast_forward: "ыстрая перемотка"
+	speed: "Скорость"
+	# ledger for territories
+	sort_pops: "#t Сортировать по населению"
+	sort_unrest: "#t Сортировать по волнению"
+	sort_civilization: "#t Сортировать по цивилизованности"
+	sort_buildings: "#t Сортировать по постройкам"
+	sort_building_slots: "#t Сортировать по ячейкам строительства"
+	sort_manpower: "#t Сортировать по людским ресурсам"
+	slaves_needed: "#t Рабы необходимые для получения излишков"
+	sort_slaves_needed: "#t Сортировка по количеству необходимых рабов для создания излишков"
+	zero_skill: "Более опытный персонаж мог бы обеспечить:" #tooltip in offices if the character has 0 skill
+	#added 12/03/2021
+	performance_mm_MAPMODE: "Производительная карта"
+	performance_mm_MAPMODE_DESC: "#T Производительная карта#!\nТо же самое, что и #Y Политическая карта#!, но всегда используется плоская карта.\nЭто поможет, если у вас низкий FPS при увеличении масштаба."
