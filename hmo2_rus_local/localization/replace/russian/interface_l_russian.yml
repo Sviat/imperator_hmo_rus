@@ -665,7 +665,7 @@
  GOLD_TO_religious_DESC:0 "\n#TF Благодарность святых людей стоит дороже денег — но от денег они всё же не отказываются.#!"
  SHIP_CATEGORY_LINE:0 "Это $NAME|Y$ корабль.\n"
  SHIP_CATEGORY_light:0 "лёгкий"
- SHIP_CATEGORY_medium:0 "Средний"
+ SHIP_CATEGORY_medium:0 "средний"
  SHIP_CATEGORY_heavy:0 "тяжёлый"
  DEFICIT_TITLE:0 "#T Дефицит#!\nЕсли у вас образуется дефицит, может случиться несколько плохих вещей."
  TRADE_NO_OPEN_ROUTES:0 "@trigger_no! $NAME|Y$ не может больше ничего импортировать."

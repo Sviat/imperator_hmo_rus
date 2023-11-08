@@ -1,3 +1,5 @@
 ﻿l_russian:
- ### Entities without localization strings
- sample_item:0 "Сюда писать"
+	### Missing from HMO2, added in HMO2 RUS
+	tooltip_research: "Очков исследования: [InGameTopbar.GetPlayer.GetResearch|1]"
+	mod_settings: "Настройки мода"
+	###

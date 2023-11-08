@@ -227,8 +227,8 @@
  dardanian:0 "Дарданская"
  greco_illyrian:1 "Далмацйская"
  histrian:0 "Истрийская"
- liburnian:0 "Либурнская"
- liburnian_culture:0 "Либурнская"
+ liburnian:0 "Либурн" # This is for Naval unit
+ liburnian_culture:0 "Либурнская" # This is for culture
  deraemestian:0 "Дереместийская"
  deurian:0 "Деурийская"
  messapian:0 "Мессапская"

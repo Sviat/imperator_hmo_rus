@@ -4,7 +4,6 @@
 	select_on_hover: "Выбор при наведении" #trade import window
 	not_in_range: "Нет в дипломатическом радиусе" #in characters window, when doing a global search
 	#
-	mod_settings: "Настройки мода"
 	music_player: "Музыкальный проигрыватель"
 	skip: "Пропуск"
 	tracks: "Композиции"
