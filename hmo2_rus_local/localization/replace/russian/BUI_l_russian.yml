@@ -4,13 +4,14 @@
 	select_on_hover: "Выбор при наведении" #trade import window
 	not_in_range: "Нет в дипломатическом радиусе" #in characters window, when doing a global search
 	#
+	mod_settings: "Настройки мода"
 	music_player: "Музыкальный проигрыватель"
 	skip: "Пропуск"
 	tracks: "Композиции"
 	names: "Имена"
 	base_game: "Базовая игра:" 
 	# are DLCs names translated to other languages?
-	timelapse: "Хронометраж/Timelapse"
+	timelapse: "Таймлапс"
 	timelapse_tt: "Открыть просмотр Хронометража/Timelapse"
 	movable_windows: "Подвижные окна"
 	movable_windows_tt: "Позволяет перетаскивать большинство окон"
@@ -70,7 +71,7 @@
 	play_back: "Перемотать назад / Медленее"
 	stop: "Стоп"
 	play_faster: "Воспроизвести / Быстрее"
-	fast_forward: "ыстрая перемотка"
+	fast_forward: "Быстрая перемотка"
 	speed: "Скорость"
 	# ledger for territories
 	sort_pops: "#t Сортировать по населению"

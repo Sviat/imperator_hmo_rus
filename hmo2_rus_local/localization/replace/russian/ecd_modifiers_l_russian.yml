@@ -152,12 +152,12 @@
  petty_noble_character:0 "Мелкий дворянин"
 
 
- Delusional:0 "Бредит"
+ delusional:0 "Помешанный"
  drunkard:0 "Пьяница"
  apathetic:0 "Апатичный"
  degenerate:0 "Дегенерат"
  sadistic:0 "Садист"
- wastrel:0 "Расточитель"
+ wastrel:0 "Расточительный"
  depraved:0 "Развратный"
 
 #Country culture modifiers
