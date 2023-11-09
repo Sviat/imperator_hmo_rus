@@ -17,7 +17,7 @@
  marines_jungle_combat_bonus:0 "Боевой бонус Морской пехоты в Джунглях"
  marines_forest_combat_bonus:0 "Боевой бонус Морской пехоты в Лесу"
  marines_farmland_combat_bonus:0 "Боевой бонус Морской пехоты на Пахотных Землях"
- marines_ocean_combat_bonus:0 "Боевой бонус Морской пехоты в Океане"
+ marines_ocean_combat_bonus:0 "Боевой бонус Морской пехоты в Открытом море"
  marines_coastal_terrain_combat_bonus:0 "Боевой бонус Морской пехоты в Прибрежной зоне"
  marines_riverine_terrain_combat_bonus:0 "Боевой бонус Морской пехоты на Реках"
 

@@ -11,7 +11,7 @@
  assign_mission.1.t:0 "Змея в траве"
  assign_mission.1.desc:0 "Наш верный слуга [target.GetName] устроился за границей и ожидает приказов. Как [target.GetSheHe] сможет получить преимущество над принимающей страной?"
  assign_mission.1.a:0 "Причинением вреда их военным"
- assign_mission.1.b:0 "Прасшатывая их общество"
+ assign_mission.1.b:0 "Расшатывая их общество"
 
  assign_mission.2.t:0 "Военное проникновение"
  assign_mission.2.desc:0 "Мы проинструктировали [target.GetName] , чтобы сорвать их военные действия. На чем [target.GetSheHe] следует сосредоточить внимание [target.GetHerHis] ?"

@@ -1,6 +1,6 @@
 ﻿l_russian:
- destroy_buildings: "Разрушить Здания"
- dont_remove_tooltip:0 "#T Заблокировать это здание#!\nОно не бедет уничтоженно при использовании РАЗРУШИТЬ ВСЕ"
+ destroy_buildings: "Разрушить здания"
+ dont_remove_tooltip:0 "#T Заблокировать это здание#!\nОно не будет уничтоженно при использовании РАЗРУШИТЬ ВСЕ"
  hill_fort_cost_tooltip:0 "@gold! [Player.MakeScope.Var('hill_fort_cost').GetValue|1] $will_be_restored$"
 
  will_be_restored: "будет восстановлен"
@@ -33,8 +33,8 @@
  theathre_building_cost_tooltip:0 "@gold! [Player.MakeScope.Var('theathre_building_cost').GetValue|1] $will_be_restored$"
  aqueduct_building_cost_tooltip:0 "@gold! [Player.MakeScope.Var('aqueduct_building_cost').GetValue|1] $will_be_restored$"
 
- num_of_buildings: "Количество зданий которые могут быть разрушены"
- locked_buildings: "Запертые Здания"
+ num_of_buildings: "Количество зданий, которые могут быть разрушены"
+ locked_buildings: "Заблокированные здания"
 
  destroy: "Разрушить"
 

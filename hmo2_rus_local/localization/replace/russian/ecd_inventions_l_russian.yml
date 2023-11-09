@@ -1021,7 +1021,7 @@
 
 #inventions law rework
 
- commands_gain_martial_invention:0 "Каждый  #Y Legion Commander#! получает #Y 1#! @military_icon! "
+ commands_gain_martial_invention:0 "Каждый #Y командир легиона#! получает #Y 1#! @military_icon! "
 
 
  counterespionage_defence:0 "Это изобретение увеличит вашу способность искоренять #Y шпионов#! на 10% и защитите свою страну от иностранного проникновения."
