@@ -2383,5 +2383,5 @@ indus_region:0 "Инд"
 #Provinces
 zantak_area:0 "Зантак"
 #ТЕПЛЫЙ ПЕРИОД
- desc_province_improvement_warm_period:0 "Теплый период"
+ province_improvement_warm_period:0 "Теплый период"
  desc_province_improvement_warm_period:0 "Похоже, боги благословили нас теплом и хорошим ростом в последние годы".
