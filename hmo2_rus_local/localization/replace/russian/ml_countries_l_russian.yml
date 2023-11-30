@@ -347,7 +347,7 @@
  IBR_ADJ:0 "Иберийск"
  COL:0 "Колхида"
  COL_ADJ:0 "Колхидск"
- 
+
  AMARDI:1 "Амардия"
  AMARDI_ADJ:0 "Мардск"
  ANARIACAE:1 "Анариакия"
@@ -1533,7 +1533,7 @@
  ARGEAD_ADJECTIVE:0 "Аргеадск"
  EGYPT_NAME:0 "Египет"
  EGYPT_ADJECTIVE:0 "Египетск"
- NILE_NAME:0 "Руспублика Нила"
+ NILE_NAME:0 "Республика Нила"
  NILE_ADJECTIVE:0 "Египетск"
  ASSYRIA_NAME:0 "Ассирия"
  ASSYRIA_ADJECTIVE:0 "Ассирийск"
@@ -1671,14 +1671,14 @@
  QUINQUEGENTIANI_ADJ:0 "Квинквегентианск"
  MUSULAMII:0 "Мусуламия"
  MUSULAMII_ADJ:0 "Мусуламск"
- # North Africa # 
+ # North Africa #
  PSYLLI:0 "Псиллия"
  PSYLLI_ADJ:0 "Псиллийск"
  LAGUATANI:0 "Лагутания"
  LAGUATANI_ADJ:0 "Лагутанийск"
  MESHWESH:0 "Мешвеш"
  MESHWESH_ADJ:0 "Мешвешийск"
- # Baltic # 
+ # Baltic #
  SITONES:0 "Ситония"
  SITONES_ADJ:0 "Ситонийск"
  FENNI:0 "Фенния"
@@ -1706,7 +1706,7 @@
  TERICI_ADJ:0 "Терикийск"
  TRIXAE:0 "Триксея"
  TRIXAE_ADJ:0 "Триксейск"
- # Illyrians # 
+ # Illyrians #
  BARIDUSTAE:0 "Баридустея"
  BARIDUSTAE_ADJ:0 "Баридустейск"
  TARIOTES:0 "Таротия"
@@ -1743,7 +1743,7 @@
  CHELIDONI_ADJ:0 "Хелидонийск"
  BATHIATAE:0 "Бафиатия"
  BATHIATAE_ADJ:0 "Бафиатск"
- # Thracians # 
+ # Thracians #
  MAEDI:0 "Маэдия"
  MAEDI_ADJ:0 "Маэдийск"
  PAETI:0 "Пеция"
@@ -1785,7 +1785,7 @@
  SITTACENI_ADJ:0 "Ситтакенийск"
  ASPURGIANI:0 "Аспургиания"
  ASPURGIANI_ADJ:0 "Аспургианийск"
- # Bactrians # 
+ # Bactrians #
  DREPSIANOI:0 "Дрепсиания"
  DREPSIANOI_ADJ:0 "Дрепсианийск"
  CHORASMIOI:0 "Хорезмия"
@@ -1852,7 +1852,7 @@
  ELYMAEI:0 "Элимия"
  ELYMAEI_ADJ:0 "Элимийск"
  CHALDAEI:0 "Халдея"
- CHALDAEI_ADJ:0 "Халдейское язычество"
+ CHALDAEI_ADJ:0 "Халдейск"
  RHAMBAIOI:0 "Рамбая"
  RHAMBAIOI_ADJ:0 "Рамбайск"
  KARDUCHOI:0 "Кардухия"
@@ -1876,7 +1876,7 @@
  AGRAIOI_ADJ:0 "Аграйск"
  EPIMARANITAE:0 "Эпимаранита"
  EPIMARANITAE_ADJ:0 "Эпимаранитск"
- # Arabian # 
+ # Arabian #
  THANOUITAE:0 "Танутия"
  THANOUITAE_ADJ:0 "Танутийск"
  KATANITAE:0 "Катанита"
@@ -1975,7 +1975,7 @@
  SUD_ADJ:0 "Судинойск"
  SLO:0 "Салоя"
  SLO_ADJ:0 "Салойск"
- 
+
  #Rome Extra
  western_roman_republic_name:0 "Западная Римская республика"
  western_roman_empire_name:0 "Западная Римская империя"
@@ -1988,7 +1988,7 @@
  eastern_roman_dictatorship_name:0 "Восточная Римская диктатура"
  western_roman_dictatorship_name:0 "Западная Римская диктатура"
  roman_kingdom_name:0 "Римское царство"
- 
+
  # Italy Extra
  ELE:0 "Элеа"
  ELE_ADJ:0 "Элеанск"
@@ -2069,7 +2069,7 @@
  POMPEII_ADJECTIVE:0 "П'мпейск"
  ROME_NAME:0 "Рим"
  ROME_ADJECTIVE:1 "Римск"
- 
+
  # Rome Missions
  SARDINIA_NAME:0 "Сардиния"
  SARDINIA_ADJECTIVE:0 "Сардинск"
@@ -2077,7 +2077,7 @@
  CORINTH_ADJECTIVE:0 "Коринфск"
  DECAPOLIS_NAME:0 "Декаполь"
  DECAPOLIS_ADJECTIVE:0 "Декапольск"
- 
+
  # FLAVOR EGY
  CYRENAICAN_OPPOSITION:0 "Киренаикская оппозиция"
  CYRENAICAN_OPPOSITION_ADJ:0 "Киренаикск"
@@ -2138,7 +2138,7 @@
  # ATHENIAN MISSION COUNTRIES
  DELOS_FEUDATORY_NAME:0 "Делос"
  DELOS_FEUDATORY_ADJECTIVE:0 "Делоск"
- 
+
  # GREEK AREA VASSALS
  ATTICA:0 "Аттика"
  ATTICA_ADJ:0 "Аттическ"
@@ -2171,7 +2171,7 @@
  ITA_ADJ:0 "Талийск"
  PHK:0 "Фокейская лига"
  PHK_ADJ:0 "Фокейск"
- 
+
  AMK:0 "Амбракия"
  AMK_ADJ:0 "Амбракск"
 
@@ -2267,11 +2267,11 @@
  B70_ADJ:0 "Фригийск"
  B72:0 "Исаврия"
  B72_ADJ:0 "Исаврийск"
- B86:0 " Александрия на Инде"
+ B86:0 "Александрия на Инде"
  B86_ADJ:0 "Индикитск"
  B90:0 "Малака"
  B90_ADJ:0 "Малакитск"
- C00:0 " Олбия Расна"
+ C00:0 "Олбия Расна"
  C00_ADJ:0 " Раснанск"
  C03:0 "Тингитания"
  C03_ADJ:0 "Тингитанск"
@@ -2318,7 +2318,7 @@
  C59:0 "Сагартиа"
  C59_ADJ:0 "Сагартинск"
  C63:0 "Алали"
- C63_ADJ:0 "Алалийск" 
+ C63_ADJ:0 "Алалийск"
  C64:0 "Аммон"
  C64_ADJ:0 "Аммонск"
  C65:0 "Асуан"
@@ -2351,7 +2351,7 @@
  C78_ADJ:0 "Нименск"
  C79:0 "Адонис"
  C79_ADJ:0 "Адонисенск"
- C81:0 "Фаэдра" 
+ C81:0 "Фаэдра"
  C81_ADJ:0 " Фаэдрайск"
  C80:0 "Аадхаван"
  C80_ADJ:0 "Аадхаванск"
@@ -2376,7 +2376,7 @@
  C96:0 "Жутикка"
  C96_ADJ:0 "Жутикканск"
 
-#Regions 
+#Regions
 first_provincia_region:0 "Тиррения"
 indus_region:0 "Инд"
 

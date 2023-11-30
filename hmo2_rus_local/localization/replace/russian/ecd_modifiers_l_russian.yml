@@ -3,7 +3,7 @@
 
  too_many_italics:0 "Итальянцы не должны сражаться за государство"
  too_many_celts:0 "Кельты и Германцы не должны сражаться за государство"
- too_many_iberians:0 "Иберийцы не должны сражаться за государство" 
+ too_many_iberians:0 "Иберийцы не должны сражаться за государство"
  too_many_north_africans:0 "Североафриканцы не должны сражаться за государство"
  too_many_levantines:0 "Левантийцы не должны бороться за нацию"
  too_many_persians:0 "Персы не должны сражаться за государство"
@@ -150,7 +150,7 @@
  brilliant_foreign_admin_character:0 "Иностранный управляющий"
  debutante_character:0 "Дебютантка"
  petty_noble_character:0 "Мелкий дворянин"
-
+ promoted_talent_character:0 "Признанный талант" # Missing from HMO Localizations
 
  delusional:0 "Помешанный"
  drunkard:0 "Пьяница"
@@ -166,7 +166,7 @@
 
 #Province modifiers
  recent_slave_death:0 "Сокращение численности рабов"
- 
+
 #Country modifiers
  spy_recruited:0 "Расширение государственной разведки"
  foreign_intel_ops:0 "Иностранный шпионаж"
@@ -181,15 +181,15 @@
  purging_bureaucrats:0 "Борьба с коррупцией"
  loved_by_the_gods:0 "Облагодетельствованный Богами"
  unloved_by_the_gods:0 "Отвергнутый богами"
- 
+
  grand_assault_mod:0 "Яростный штурм"
  grand_siege_mod:0 "Великая осада"
- 
+
 
  social_stability:0 "Социальная нестабильность"
  civil_war_risk:0 "Гражданская напряженность"
  social_unrest:0 "Социальные беспорядки"
- social_disloyalty:0 "Открытое неуважение" 
+ social_disloyalty:0 "Открытое неуважение"
 
  indian_social_stability:0 "Социальные разногласия"
  indian_civil_war_risk:0 "Нарушение общественного доверия"

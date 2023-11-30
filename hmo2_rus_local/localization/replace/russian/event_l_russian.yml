@@ -1,0 +1,4 @@
+﻿l_russian:
+ ### Not related to HMO, fix for vanilla
+ city.9.t:0 "Богатый покровитель"
+ city.9.desc:2 "[city_9_target.Custom('get_city_type_loc')|U] [SCOPE.sP('city_9_target').GetName] не привлекает внимания богатых жителей столицы. Сегодня [SCOPE.sChar('city_9_patron').GetName] предлагает потратить заметную долю своего состояния на строительство огромного храма богу [ROOT.GetCountry.Custom('get_random_god')].\n\n[SCOPE.sChar('city_9_patron').GetSheHe|U] просит нашего разрешения, прежде чем приступить к строительству."

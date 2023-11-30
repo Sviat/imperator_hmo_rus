@@ -150,7 +150,7 @@
  EXPENSES_HEADER:0 "Расходы"
  EXPENSES_HEADER_TT:0 "#T $EXPENSES_HEADER$#!\n\n#TF Здесь показаны различные расходы вашей державы, здесь же можно менять объём расходов.#!"
  MACRO_BUILDER_MENU:0 "#T Макростроитель#!\nДаёт доступ к быстрой вербовке когорт, строительству зданий, повышению групп населения и многому другому."
- 
+
  PROVINCE_CLICK_OBSERVE:0 "#I Ctrl + ЛКМ — наблюдать#!"
  PROVINCE_CLICK_STOP_OBSERVING:0 "#I Ctrl + ЛКМ — прекратить наблюдение#!"
  ROMINTRO:0 "#T Рим#!\nУровень сложности: #Y легко#!\n\nНаша игра начинается с того момента, когда Рим начал устанавливать гегемонию над соседними племенами и культурами, часто вступая в конфликты с соседями. Вторая Самнитская война закончилась всего несколько месяцев назад, укрепив положение Рима на региональном уровне. Новая угроза нависла со стороны этрусков и карфагенян, однако экономика Рима намного мощнее, чем у обычного растущего города-государства, каковым он кажется."
@@ -451,7 +451,7 @@
  CO_RULER_OF:0 "$TITLE|V$ державы $NAME|Y$ @$TAG$!"
  CHAR_IS_TITLE:0 "$TITLE$"
  CHARACTER_FACTION:0 "[Character.GetName|Y] состоит во фракции #t [Character.GetParty.GetName]#!"
- # 
+ #
  HEAD_OF_FAMILY_TITLE:0 "Глава рода #Y $NAME$#!"
  HEAD_OF_FAMILY_TITLE_SHORT:0 "Глава рода #Y $NAME$#!"
  #
@@ -1675,7 +1675,7 @@
  LOCAL_HOLY_SITES:0 "Святые места"
  RELIGION_VIEW:0 "Религии"
  DEITY_NAME_TEXT:0 "[DeityItem.GetDeity.GetName]"
- DEITY_RELIGION_TEXT:0 "[DeityItem.GetDeity.GetReligion.GetDescriptiveName], покровительствующее такой сфере, как [DeityItem.GetDeity.GetDeityCategory.GetName]"
+ DEITY_RELIGION_TEXT:0 "[DeityItem.GetDeity.GetReligion.GetDescriptiveName] ([DeityItem.GetDeity.GetDeityCategory.GetName])"
  HOLY_SITE_HEADER:0 "#T [PROVINCE.Custom('temple_string')] божества [PROVINCE.GetProvincialDeity.GetName] в провинции [PROVINCE.GetName] #!"
  HOLY_SITE_DESCRIPTION_RELIQUARY:2 "[province|E] получает бонусы от [Concept( 'treasures', 'сокровищ' )|E] ([PROVINCE.GetState.GetShortName]):\n$STATE_MODIFIERS$"
  HOLY_SITE_OF:0 "[DeityItem.GetDeity.GetHolySite.Custom('temple_string')], [DeityItem.GetDeity.GetHolySite.GetName]"
@@ -2149,7 +2149,7 @@
  POP_TYPE_TOTAL_TT:0 "[PopTypeItem.GetName]\n\nВнутреннее значение показывает суммарное население [Concept( 'province', 'провинции' )|E].\n\n#G Щёлкните, чтобы закрепить центральную информацию.#!"
 
  SLAVES_OVERWORKED:0 "Рабы перегружены работой и могут погибнуть"
- 
+
 # === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
  RAISE_LEVY_HAS_LEVY:0 "Ополчения этого губернаторства уже собраны."
  RAISE_LEVY_MIN_SIZE:0 "Это губернаторство либо слишком мало, чтобы поддерживать минимальное количество ополчения, либо поддерживает слишком много когорт [Concept( 'legion', 'легиона' )|E]."
