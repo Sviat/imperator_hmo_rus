@@ -1,0 +1,6 @@
+﻿l_russian:
+ ### Not related to HMO, fix for vanilla
+ citizen_header:0 "#t Граждане#!"
+ freemen_header:0 "#t Свободные люди#!" # Here, but keep others for context
+ tribesmen_header:0 "#t Люди племён#!"
+ slaves_header:0 "#t Рабы#!"

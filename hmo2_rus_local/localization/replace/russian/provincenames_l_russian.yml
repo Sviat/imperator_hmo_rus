@@ -17171,6 +17171,8 @@
  PROV659_phoenician:0 "$PROV659$"
  PROV665_phoenician:0 "$PROV665$"
  PROV666_phoenician:0 "Хафа"
+ PROV667_phoenician:0 "Дор" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
+ PROV670_phoenician:0 "Ака" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV671_phoenician:0 "$PROV671$"
  PROV673_phoenician:0 "$PROV673$"
  PROV674_phoenician:0 "$PROV674$"
@@ -17210,14 +17212,18 @@
  PROV740_phoenician:0 "$PROV740$"
  PROV741_phoenician:0 "$PROV741$"
  PROV743_phoenician:0 "Сур"
+ PROV744_phoenician:0 "Акдеп" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV745_phoenician:0 "$PROV745$"
  PROV746_phoenician:0 "Зарефат"
+ PROV747_phoenician:0 "Сидун" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV748_phoenician:0 "Берут"
  PROV751_phoenician:0 "$PROV751$"
  PROV752_phoenician:0 "$PROV752$"
  PROV754_phoenician:0 "$PROV754$"
  PROV761_phoenician:0 "$PROV761$"
+ PROV763_phoenician:0 "Баалбека" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV766_phoenician:0 "Гебал"
+ PROV767_phoenician:0 "Ботруна" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV768_phoenician:0 "$PROV768$"
  PROV769_phoenician:0 "Атар"
  PROV771_phoenician:0 "Ирката"
@@ -17225,6 +17231,7 @@
  PROV774_phoenician:0 "$PROV774$"
  PROV777_phoenician:0 "$PROV777$"
  PROV779_phoenician:0 "Арпад"
+ PROV780_phoenician:0 "Карна" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV781_phoenician:0 "$PROV781$"
  PROV786_phoenician:0 "Рамита"
  PROV788_phoenician:0 "$PROV788$"
@@ -17252,6 +17259,9 @@
  PROV1333_phoenician:0 "$PROV1333$"
  PROV1335_phoenician:0 "Баал Сафон"
  PROV1343_phoenician:0 "$PROV1343$"
+ PROV1344_phoenician:0 "Агадир" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
+ PROV1345_phoenician:0 "$PROV1345$" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
+ PROV1347_phoenician:0 "$PROV1347$" # Even though these is present in Vanilla, cause file in mod is not in replace it shown as internal value on map
  PROV1348_phoenician:0 "Карта"
  PROV1350_phoenician:0 "$PROV1350$"
  PROV1355_phoenician:0 "$PROV1355$"
