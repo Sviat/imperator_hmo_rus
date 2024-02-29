@@ -1,0 +1,9 @@
+﻿l_russian: # THIS FILE FIXES MISSING IN HMO MOD ENTRIES (but named after file in Vanilla)
+  grand_republic_co_ruler:0 "Второй консул"
+  grand_republic_co_ruler_female:0 "Второй консул"
+  grand_republic_ruler:0 "Великий консул"
+  grand_republic_ruler_female:0 "Великий консул"
+  grand_republic_co_ruler_latin:0 "Второй консул"
+  grand_republic_co_ruler_female_latin:0 "Второй консул"
+  grand_republic_ruler_latin:0 "Великий консул"
+  grand_republic_ruler_female_latin:0 "Великий консул"
