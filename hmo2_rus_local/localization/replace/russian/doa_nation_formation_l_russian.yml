@@ -593,10 +593,10 @@
  GOTHIA_ADJECTIVE:0 "Готск"
  gothia_not_exists:0 "#Y Готия#! НЕ существует."
 
- #Великую Богемию
+ #Boihaemia Magna
  form_boihaemia_magna:0 "Образовать Великую Богемию"
  form_boihaemia_magna_desc:0 "The myriad of tribes spread across northern Europe are powerful and strong, but are scattered, divided, and leaderless. If we mobilize our forces, we can boldly sieze this opportunity to usurp power in this vaccum and annex the region. With our strong leadership, we would be able to fuse our two warlike cultures together and forge a syncretic Celto-Germanic empire capable of fighting all who would dare to oppose us."
- BOIHAEMIA_MAGNA_NAME:0 "Великую Богемию"
+ BOIHAEMIA_MAGNA_NAME:0 "Великая Богемия"
  BOIHAEMIA_MAGNA_ADJECTIVE:0 "Великобогемск"
  boihaemia_magna_not_exists:0 "#Y Великую Богемию#! НЕ существует."
 

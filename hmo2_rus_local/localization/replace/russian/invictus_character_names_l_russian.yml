@@ -1,7 +1,7 @@
 ﻿l_russian:
 
   # Do not change the name of this file or anything in it, awful things will happen, the world will burn.
-
+  # For Greek names: please follow Wiki when possible, otherwise итацизм or рейхлиново произношение (http://www.astromyth.ru/Additional/GreekNames.htm)
   Aadanya: "Ааданья"
   Aadarshini: "Аадаршини"
   Aadhika: "Аадхика"
@@ -241,12 +241,12 @@
   Adobogiona: "Адобогиона"
   Adrumeti: "Адрумети"
   Adrumetit: "Адруметит"
-  Agatharchidides: "Агатархидидес"
-  Agatharchidis: "Агатархидис"
-  Agathides: "Агатидис"
-  Agathis: "Агатис"
-  Agathoklides: "Агатоклидес"
-  Agathoklis: "Агатоклис"
+  Agatharchidides: "Агафархидидес" # TH -> Ф
+  Agatharchidis: "Агафархидис" # TH -> Ф
+  Agathides: "Агафидис" # TH -> Ф
+  Agathis: "Агафис" # TH -> Ф
+  Agathoklides: "Агафоклидес" # TH -> Ф
+  Agathoklis: "Агафоклис" # TH -> Ф
   Agelaides: "Агелаидес"
   Agelais: "Агелаис"
   Agenides: "Агенидис"

@@ -1,4 +1,4 @@
-﻿l_russian:
+﻿l_russian: # For Greek names: please follow Wiki when possible, otherwise итацизм or рейхлиново произношение (http://www.astromyth.ru/Additional/GreekNames.htm)
  Abiyasa:0 "Авьяса"
  Abraha:0 "Абраха"
  Alhan:0 "Алхан"
@@ -113,10 +113,10 @@
  Afunian:0 "Из Афунеев"
  Agaios:0 "Агей"
  Agape:0 "Агапе"
- Agatharchides:0 "Агатархид"
- Agathoclea:0 "Агатоклея"
- Agathoclid:0 "Агатоклид"
- Agathokleia:0 "Агатоклея"
+ Agatharchides:0 "Агафархид" # TH -> Ф
+ Agathoclea:0 "Агафоклея" # TH -> Ф
+ Agathoclid:0 "Агафоклид" # TH -> Ф
+ Agathokleia:0 "Агафоклея" # TH -> Ф
  Agathokles:0 "Агафокл"
  Agathon:0 "Агафон"
  Agbal:0 "Агбал"
@@ -7004,7 +7004,7 @@
  Telesphoros:0 "Телесфор"
  Boa:0 "Боа"
  Tarquinius:0 "Тарквиний"
- 
+
   #New ones
  Philaidae:0 "Филаид"
  Bodo:0 "Бодо"
