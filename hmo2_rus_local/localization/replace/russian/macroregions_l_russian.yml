@@ -1,13 +1,13 @@
 ﻿l_russian:
  central_italy_region:0 "Италия"
- taurica_region:0 "Таврика"
+ taurica_region:0 "Киммерия" # (https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BC%D0%BC%D0%B5%D1%80%D0%B8%D1%8F) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  sarmatia_asiatica_region:0 "Азиатская Сарматия"
- greece_region:0 "Греция"
+ greece_region:0 "Эллада" # (Hellas, https://en.wikipedia.org/wiki/Name_of_Greece) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  asia_region:0 "Азия"
  cilicia_region:0 "Киликия"
  galatia_region:1 "Фригия"
  bithynia_region:1 "Вифиния и Пафлагония"
- cappadocia_region:1 "Каппадокия Таврическая"
+ cappadocia_region:1 "Каппадокия" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  assyria_region:0 "Ассирия"
  mesopotamia_region:0 "Месопотамия"
  gedrosia_region:0 "Гедросия"
@@ -18,15 +18,15 @@
  parthia_region:0 "Парфия"
  syria_region:0 "Сирия"
  palestine_region:0 "Палестина"
- sarmatia_europea_region:0 "Европейская Сарматия"
- arabia_region:0 "Аравия"
- arabia_felix_region:0 "Аравия Феликс"
+ sarmatia_europea_region:0 "Сарматия" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ arabia_region:0 "Западная Аравия" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ arabia_felix_region:0 "Восточная Аравия" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  gandhara_region:0 "Гандхара"
  maru_region:0 "Мару"
  avanti_region:0 "Аванти"
  pracya_region:0 "Прачья"
  vindhyaprstha_region:0 "Виндхья"
- vindhyachala_region:0 "Виндхьячала" 
+ vindhyachala_region:0 "Виндхьячала"
  dravida_region:0 "Дравида"
  koda_region:0 "Кода"
  aparanta_region:0 "Апаранта"
@@ -39,13 +39,13 @@
  punt_region:0 "Пунт"
  lusitania_region:0 "Лузитания"
  germania_region:0 "Германия"
- transalpine_gaul_region:0 "Трансальпийская Галлия"
+ transalpine_gaul_region:0 "Родания" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  gallaecia_region:0 "Галлеция"
  caledonia_region:0 "Каледония"
  numidia_region:0 "Нумидия"
  nubia_region:0 "Нубия"
- upper_egypt_region:0 "Верхний Египет"
- lower_egypt_region:0 "Нижний Египет"
+ upper_egypt_region:0 "Египет" # (Aegyptus) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ lower_egypt_region:0 "Дельта Нила" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  pannonia_region:0 "Паннония"
  venedia_region:0 "Венедия"
  thrace_region:0 "Фракия"
@@ -53,11 +53,11 @@
  dacia_region:0 "Дакия"
  madhyadesa_region:0 "Мадхьядеша"
  colchis_region:0 "Колхида"
- albania_region:0 "Албания"
+ albania_region:0 "Кавказ" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  armenia_region:0 "Армения"
  bohemia_area:0 "Богемия"
  illyria_region:0 "Иллирия"
- magna_graecia_region:0 "Великая Греция"
+ magna_graecia_region:0 "Великая Эллада" # (Magna Hellas) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  belgica_region:0 "Белгика"
  vistulia_region:0 "Вистулия"
  macedonia_region:0 "Македония"
@@ -69,12 +69,12 @@
  aquitaine_region:0 "Аквитания"
  tarraconensis_region:0 "Тарраконика"
  britain_region:0 "Британия"
- cisalpine_gaul_region:0 "Цизальпийская Галлия"
+ cisalpine_gaul_region:0 "Лепонтия" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  africa_region:0 "Африка"
  rhaetia_region:0 "Реция"
  baetica_region:0 "Баэтика"
  scandinavia_region:0 "Скандия"
- cappadocia_pontica_region:0 "Каппадокия Понтийская"
+ cappadocia_pontica_region:0 "Понтия" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  fezzan_region:0 "Феззан"
  atlas_region:0 "Атлас"
  borysthenia_region:0 "Меланхления"

@@ -328,11 +328,11 @@
  ZYGII_ADJ:0 "Зихск"
  #Formable
  SLAVIA_NAME:1 "Slavia"
- SLAVIA_ADJECTIVE:0 "Славянск"                                     
+ SLAVIA_ADJECTIVE:0 "Славянск"
  #:0 ""
  # PERSIAN:0 ""
  #:0 ""
- SEL:2 "Царство Селевкидов"
+ SEL:2 "Царство Селевкидов" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  SEL_ADJ:2 "Селевкидск"
  ARM:0 "Армения"
  ARM_ADJ:0 "Армянск"
@@ -350,7 +350,7 @@
  IBR_ADJ:0 "Иберийск"
  COL:0 "Колхида"
  COL_ADJ:0 "Колхидск"
- 
+
  AMARDI:1 "Амардия"
  AMARDI_ADJ:0 "Мардск"
  ANARIACAE:1 "Анариакия"
@@ -514,14 +514,14 @@
  AILAO:1 "Айлао"
  AILAO_ADJ:0 "Айлаокс"
  PUBU:1 "Пубу"
- PUBU_ADJ:0 "Пубуск"               
+ PUBU_ADJ:0 "Пубуск"
  #THIS IS BRITANNIA
  CAT:1 "Кантиакия"
  CAT_ADJ:0 "Кантийск"
  DUR:1 "Дуротригия"
  DUR_ADJ:0 "Дуротригск"
  PAS:1 "Паризия"
- PAS_ADJ:0 "Паризийск" 
+ PAS_ADJ:0 "Паризийск"
  DUM:1 "Думнония"
  DUM_ADJ:0 "Думнонск"
  ICE:1 "Ицения"
@@ -562,7 +562,7 @@
  CAL_ADJ:0 "Каледонск"
 #THIS IS IBERIA
  VAD:1 "Вардулия"
- VAD_ADJ:0 "Вардульск" 
+ VAD_ADJ:0 "Вардульск"
  BLD:0 "Гимназия"
  BLD_ADJ:0 "Гимназийск"
  ASU:0 "Астурия"
@@ -774,7 +774,7 @@
  MTS:0 "Мантазания"
  MTS_ADJ:0 "Мантазанск"
  #THIS IS ITALIA
- ROM:0 "Рим"
+ ROM:0 "Римская республика" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  ROM_ADJ:0 "Римск"
  SAM:0 "Самний"
  SAM_ADJ:0 "Самнитск"
@@ -899,8 +899,8 @@
  GWN_ADJ:0 "Гванарск"
  BOR:0 "Борас"
  BOR_ADJ:0 "Борасск"
- AUT:0 "Мероя"
- AUT_ADJ:0 "Мероитск"
+ AUT:0 "Алут"
+ AUT_ADJ:0 "Алутск"
  TQF:0 "Такиф"
  TQF_ADJ:0 "Такифск"
  THD:0 "Тамуд"
@@ -909,13 +909,13 @@
  BMY_ADJ:0 "Блеммийск"
  CYR:0 "Киренаика"
  CYR_ADJ:0 "Киренаикск"
- EGY:0 "Египет Птолемеев"
+ EGY:0 "Царство Птолемеев" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  EGY_ADJ:0 "Египетск"
- CAR:0 "Карфаген"
+ CAR:0 "Республика Карфаген" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  CAR_ADJ:0 "Карфагенск"
  #Formable
  PUNT_NAME:1 "Пунт"
- PUNT_ADJECTIVE:0 "Пунтск"                 
+ PUNT_ADJECTIVE:0 "Пунтск"
  #THIS IS GAUL
  BOA:0 "Богемия"
  BOA_ADJ:0 "Богемск"
@@ -1194,12 +1194,12 @@
  SYR_ADJ:0 "Сиракузск"
  EPI:0 "Эпир"
  EPI_ADJ:0 "Эпирск"
- MAC:0 "Македония"
- MAC_ADJ:0 "Македонск"
+ MAC:0 "Македония" # (maKedon instead of maCedon) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ MAC_ADJ:0 "Македонск" # (maKedon instead of maCedon) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  MGA:0 "Мегара"
  MGA_ADJ:0 "Мегарск"
- TRE:0 "Царство Лисимахидов"
- TRE_ADJ:0 "Лисимахидск"
+ TRE:0 "Царство Лисимаха" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ TRE_ADJ:0 "Лисимахидск" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  BYZ:0 "Византий"
  BYZ_ADJ:0 "Византийск"
  ATH:0 "Афины"
@@ -1356,9 +1356,9 @@
  PHY:1 "Фриния"
  PHY_ADJ:0 "Фринск"
  MGT:0 "Массагеты"
- MGT_ADJ:0 "Массагетск"                  
+ MGT_ADJ:0 "Массагетск"
  ###################
- #Changed from Wusun, Wusun now appears via event                                
+ #Changed from Wusun, Wusun now appears via event
  WUS:0 "Усуни"
  WUS_ADJ:0 "Усуньск"
  ###################
@@ -1433,7 +1433,7 @@
  #Formable
  TIBETAN_EMPIRE_NAME:0 "Тибет"
  TIBETAN_EMPIRE_ADJECTIVE:0 "Тибетск"
- 
+
  ###Germania
  LVA:0 "Лемовия"
  LVA_ADJ:0 "Лемовийск"
@@ -1707,14 +1707,14 @@
  QUINQUEGENTIANI_ADJ:0 "Квинквегентианск"
  MUSULAMII:0 "Мусуламия"
  MUSULAMII_ADJ:0 "Мусуламск"
- # North Africa # 
+ # North Africa #
  PSYLLI:0 "Псиллия"
  PSYLLI_ADJ:0 "Псиллийск"
  LAGUATANI:0 "Лагутания"
  LAGUATANI_ADJ:0 "Лагутанийск"
  MESHWESH:0 "Мешвеш"
  MESHWESH_ADJ:0 "Мешвешийск"
- # Baltic # 
+ # Baltic #
  SITONES:0 "Ситония"
  SITONES_ADJ:0 "Ситонийск"
  FENNI:0 "Фенния"
@@ -1742,7 +1742,7 @@
  TERICI_ADJ:0 "Терикийск"
  TRIXAE:0 "Триксея"
  TRIXAE_ADJ:0 "Триксейск"
- # Illyrians # 
+ # Illyrians #
  BARIDUSTAE:0 "Баридустея"
  BARIDUSTAE_ADJ:0 "Баридустейск"
  TARIOTES:0 "Таротия"
@@ -1779,7 +1779,7 @@
  CHELIDONI_ADJ:0 "Хелидонийск"
  BATHIATAE:0 "Бафиатия"
  BATHIATAE_ADJ:0 "Бафиатск"
- # Thracians # 
+ # Thracians #
  MAEDI:0 "Маэды"
  MAEDI_ADJ:0 "Маэдийск"
  PAETI:0 "Пеция"
@@ -1821,7 +1821,7 @@
  SITTACENI_ADJ:0 "Ситтакенийск"
  ASPURGIANI:0 "Аспургиания"
  ASPURGIANI_ADJ:0 "Аспургианийск"
- # Bactrians # 
+ # Bactrians #
  DREPSIANOI:0 "Дрепсиания"
  DREPSIANOI_ADJ:0 "Дрепсианийск"
  CHORASMIOI:0 "Хорезмия"
@@ -1912,7 +1912,7 @@
  AGRAIOI_ADJ:0 "Аграйск"
  EPIMARANITAE:0 "Эпимаранита"
  EPIMARANITAE_ADJ:0 "Эпимаранитск"
- # Arabian # 
+ # Arabian #
  THANOUITAE:0 "Танутия"
  THANOUITAE_ADJ:0 "Танутийск"
  KATANITAE:0 "Катанита"
@@ -2011,7 +2011,7 @@
  SUD_ADJ:0 "Судинойск"
  SLO:0 "Салоя"
  SLO_ADJ:0 "Салойск"
- 
+
  #Rome Extra
  western_roman_republic_name:0 "Западная Римская республика"
  western_roman_empire_name:0 "Западная Римская империя"
@@ -2024,7 +2024,7 @@
  eastern_roman_dictatorship_name:0 "Восточная Римская диктатура"
  western_roman_dictatorship_name:0 "Западная Римская диктатура"
  roman_kingdom_name:0 "Римское царство"
- 
+
  # Italy Extra
  ELE:0 "Элеа"
  ELE_ADJ:0 "Элеанск"
@@ -2103,7 +2103,7 @@
  POMPEII_ADJECTIVE:0 "П'мпейск"
  ROME_NAME:0 "Рим"
  ROME_ADJECTIVE:1 "Римск"
- 
+
  # Rome Missions
  SARDINIA_NAME:0 "Сардиния"
  SARDINIA_ADJECTIVE:0 "Сардинск"
@@ -2111,7 +2111,7 @@
  CORINTH_ADJECTIVE:0 "Коринфск"
  DECAPOLIS_NAME:0 "Декаполь"
  DECAPOLIS_ADJECTIVE:0 "Декапольск"
- 
+
  # FLAVOR EGY
  CYRENAICAN_OPPOSITION:0 "Киренаикская оппозиция"
  CYRENAICAN_OPPOSITION_ADJ:0 "Киренаикск"
@@ -2200,14 +2200,14 @@
  MRY_DYN_ADJ:1 "[GetCountry('MRY').Custom('get_mry_adj')]"
  PRY_DYN:0 "[GetCountry('PRY').Custom('get_pry_name')]"
  PRY_DYN_ADJ:0 "[GetCountry('PRY').Custom('get_pry_adj')]"
-  
+
  TUSCIA_NAME:0 "Тусция"
- 
+
  ITA:0 "Италиотская лига"
  ITA_ADJ:0 "Талийск"
  PHK:0 "Фокейская лига"
  PHK_ADJ:0 "Фокейск"
- 
+
  AMK:0 "Амбракия"
  AMK_ADJ:0 "Амбракск"
 
@@ -2307,7 +2307,7 @@
  LYD_ADJ:0 "Лидийск"
  SOLOI:0 "Солы"
  SOLOI_ADJ:0 "Солийск"
-  
+
  #New Africa
  MOY:0 "Сырботия"
  MOY_ADJ:0 "Сырботск"
@@ -2535,10 +2535,10 @@
  X58_ADJ:0 "Монапск"
 
  #From "Replace" Folder
- LYSIMACHID_KINGDOM:0 "Лисимахидское царство"
- LYSIMACHID_EMPIRE:0 "Лисимахидская империя"
+ LYSIMACHID_KINGDOM:0 "Царство Лисимахов"
+ LYSIMACHID_EMPIRE:0 "Империя Лисимахов"
  LYSIMACHID_ADJ:0 "Лисимахид"
- ANTIPATRID_KINGDOM:0 "Антипатридское королевство"
+ ANTIPATRID_KINGDOM:0 "Царство Антипатридов"
  ANTIPATRID_EMPIRE:0 "Империя Антипатридов"
  ANTIPATRID_ADJ:0 "Антипатрид"
  PTOLEMAIC_EMPIRE:0 "Империя Птолемеев"
@@ -2556,13 +2556,13 @@
  GEDROSIAN_KINGINGDOM:0 "Гедросийское царство"
  CAPPADOCIAN_KINGDOM:0 "Каппадокийское царство"
  ASSYRIAN_KINGINGDOM:0 "Ассирийское царство"
- SYRIAN_KINGINGDOM:0 "Сирийское королевство"
- PALESTINE_KINGDOM:0 "Палестинское королевство"
+ SYRIAN_KINGINGDOM:0 "Сирийское Царство"
+ PALESTINE_KINGDOM:0 "Палестинское царство"
  MADHYADESAN_KINGDOM:0 "Мадхьядесанское царство"
- GANDARAN_KINGDOM:0 "Гандаранское королевство"
- MARU_KINGDOM:0 "Королевство Мару"
- AVANTI_KINGDOM:0 "Королевство Аванти"
- APARANTAN_KINGDOM:0 "Королевство Апарантан"
+ GANDARAN_KINGDOM:0 "Гандаранское царство"
+ MARU_KINGDOM:0 "Царство Мару"
+ AVANTI_KINGDOM:0 "Царство Аванти"
+ APARANTAN_KINGDOM:0 "Царство Апарантан"
  KARNATAN_KINGDOM:0 "Карнатанское царство"
  DRAVIDIAN_KINGDOM:0 "Дравидийское царство"
  VINDHYAPRSTHAN_KINGDOM:0 "Виндхьяпрстханское царство"
@@ -2577,7 +2577,7 @@
  KAO_ADJ:0 "Кауносск"
  PYK:0 "Фискос"
  PYK_ADJ:0 "Фискосск"
- 
+
  # Ionian League
  #decision
  formable_not_ionian_league_exists:0 "#Y Пан-Ионийская лига#! НЕ ДОЛЖНА существовать"
@@ -2605,8 +2605,8 @@
  #Cyrenaica-Libya
  libya_name:0 "Либу"
  libya_adj:0 "Либийск"
- 
- 
+
+
  #New Tarim
  YMI:1 "Юми"
  YMI_ADJ:0 "Юми"
@@ -2620,7 +2620,7 @@
  GMO_ADJ:0 "Гумо"
  XIW:1 "Сяовань"
  XIW_ADJ:0  Сяовань"
- 
+
  #New Burma
  NYA:0 "Няунгган"
  NYA_ADJ:0 "Няунгганск"
@@ -2644,7 +2644,7 @@
  FGD_ADJ:0 "Фугандулу"
  SHN:0 "Шан"
  SHN_ADJ:0 "Шанск"
- 
+
  # unused tags
  OSR:0 "Осроэн"
  OSR_ADJ:0 "Осроэнск"

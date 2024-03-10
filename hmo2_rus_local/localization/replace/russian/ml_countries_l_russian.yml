@@ -329,7 +329,7 @@
  #:0 ""
  # PERSIAN:0 ""
  #:0 ""
- SEL:2 "Царство Селевкидов"
+ SEL:2 "Царство Селевкидов" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  SEL_ADJ:2 "Селевкидск"
  ARM:0 "Армения"
  ARM_ADJ:0 "Армянск"
@@ -765,8 +765,8 @@
  GWN_ADJ:0 "Гванарск"
  BOR:0 "Борас"
  BOR_ADJ:0 "Борасск"
- AUT:0 "Алут"
- AUT_ADJ:0 "Алутск"
+ AUT:0 "Алут" # WASNT REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml due to ALUT and MEROE being TWO different Cultures IN ONE REGION, AUT as country has ALUTAN culturea on game start
+ AUT_ADJ:0 "Алутск" # WASNT REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml due to ALUT and MEROE being TWO different Cultures IN ONE REGION, AUT as country has ALUTAN culturea on game start
  TQF:0 "Такиф"
  TQF_ADJ:0 "Такифск"
  THD:0 "Тамуд"
@@ -775,7 +775,7 @@
  BMY_ADJ:0 "Блеммийск"
  CYR:0 "Киренаика"
  CYR_ADJ:0 "Киренаикск"
- EGY:0 "Египет"
+ EGY:0 "Египет Птолемеев" # HMO RUS FIX TO HMO ERROR
  EGY_ADJ:0 "Египетск"
  CAR:0 "Карфаген"
  CAR_ADJ:0 "Карфагенск"
@@ -1181,12 +1181,12 @@
  SYR_ADJ:0 "Сиракузск"
  EPI:0 "Эпир"
  EPI_ADJ:0 "Эпирск"
- MAC:0 "Македония"
- MAC_ADJ:0 "Македонск"
+ MAC:0 "Македония" # (maKedon instead of maCedon) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ MAC_ADJ:0 "Македонск" # (maKedon instead of maCedon) REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  MGA:0 "Мегара"
  MGA_ADJ:0 "Мегарск"
- TRE:0 "Фракия"
- TRE_ADJ:0 "Фракийск"
+ TRE:0 "Царство Лисимахов" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
+ TRE_ADJ:0 "Лисимахидск" # REPLACED BY huge_multiplayer_overhaul\localization\replace\countries_l_english_REPLACE.yml
  BYZ:0 "Византий"
  BYZ_ADJ:0 "Византийск"
  ATH:0 "Афины"
