@@ -1,4 +1,5 @@
 ﻿l_russian:
+	CHARACTERS_FROM_MINOR_FAMILY: "Незначительные персонажи" # HMO RUS FIX TO HMO ERROR
 	trade_hover: "Наведите курсор на товар, чтобы выбрать его.\nНажмите на него, чтобы заблокировать выбор.\nНажмите 'Отмена', чтобы разблокировать.\n\n#tf Это позволяет быстро увидеть, готов ли кто-то торговать.\nОкно выбора может быть перемещено."
 	#added 23/02/2021:
 	select_on_hover: "Выбор при наведении" #trade import window
@@ -9,7 +10,7 @@
 	skip: "Пропуск"
 	tracks: "Композиции"
 	names: "Имена"
-	base_game: "Базовая игра:" 
+	base_game: "Базовая игра:"
 	# are DLCs names translated to other languages?
 	timelapse: "Таймлапс"
 	timelapse_tt: "Открыть просмотр Хронометража/Timelapse"
