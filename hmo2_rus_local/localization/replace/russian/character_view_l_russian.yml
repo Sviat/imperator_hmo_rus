@@ -1,3 +1,5 @@
 ﻿l_russian:
-  CHARACTER_VIEW_FILTER_BY_CAN_MARRY:0 "Брак"
+ CHARACTER_VIEW_FILTER_BY_CAN_MARRY:0 "Брак"
  CHARACTER_VIEW_FILTER_BY_CAN_MARRY_TOOLTIP:0 "#t Фильтр по доступности для женитьбы или замужества#!"
+ governor_grant_nickname:0 "Пожаловать родовое имя" # HMO RUS shorten original localization for UI
+ governor_grant_nickname_act:0 "Пожаловать родовое имя по названию региона" # HMO RUS shorten original localization for UI
