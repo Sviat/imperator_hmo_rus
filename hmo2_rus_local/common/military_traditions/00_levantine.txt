@@ -1,0 +1,459 @@
+﻿levantine_philosophy = {
+	color = hsv { 2.7 0.6 0.5 }
+	image = levantine_arabian_path_6
+
+	allow = {
+		trigger_if = {
+			limit = { primary_culture = hebrew }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = hebrew
+		}
+		trigger_else_if = {
+			limit = { primary_culture = nabatean }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = nabatean
+		}
+		trigger_else_if = {
+			limit = { primary_culture = phoenician }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			primary_culture = phoenician
+		}
+		trigger_else_if = {
+			limit = { country_culture_group = north_african }
+			custom_tooltip = {
+				text = "began_with_tradition_group"
+			}
+			country_culture_group = north_african
+		}
+		trigger_else = {
+			custom_tooltip = {
+				always = no
+				text = "tradition_lock_not_a_levantine"
+			}
+		}
+	}
+
+	egyptian_generic_path_1 = { ###
+		allow = {
+            NOT = {
+                has_variable = left_generic_tree
+            }
+        }
+        on_activate = {
+            set_variable = left_generic_tree
+        }
+		modifier = {
+			archers_cost = -0.05
+			archers_movement_speed = 0.05
+			heavy_infantry_cost = -0.05
+			heavy_infantry_movement_speed = 0.05
+			light_cavalry_cost = -0.05
+			light_cavalry_movement_speed = 0.05
+			army_maintenance_cost = 0.01
+		}
+		icon = greek_antigonid_path_6
+		requires = { }
+	}
+
+	egyptian_generic_path_2 = { ###
+		allow = {
+            NOT = {
+                has_variable = right_generic_tree
+            }
+        }
+        on_activate = {
+            set_variable = right_generic_tree
+        }
+		modifier = {
+			archers_cost = -0.05
+			archers_movement_speed = 0.05
+			heavy_infantry_cost = -0.05
+			heavy_infantry_movement_speed = 0.05
+			light_cavalry_cost = -0.05
+			light_cavalry_movement_speed = 0.05
+			army_maintenance_cost = 0.01
+		}
+		icon = celtic_gallic_path_1
+		requires = { }
+	}
+
+	egyptian_generic_path_3 = { ###
+		modifier = {
+			archers_offensive = 0.1
+			archers_morale = 0.1
+			heavy_infantry_offensive = 0.1
+			heavy_infantry_morale = 0.1
+			light_cavalry_offensive = 0.1
+			light_cavalry_morale = 0.1
+			army_maintenance_cost = 0.01
+		}
+		icon = mauryan_mauryas_path_5
+		requires = {egyptian_generic_path_1}
+	}
+
+	egyptian_generic_path_4 = { ###
+		modifier = {
+			archers_defensive = 0.1
+			archers_discipline = 0.1
+			heavy_infantry_defensive = 0.1
+			heavy_infantry_discipline = 0.1
+			light_cavalry_defensive = 0.1
+			light_cavalry_discipline = 0.1
+			army_maintenance_cost = 0.01
+		}
+		icon = celtic_germanic_path_7
+		requires = {egyptian_generic_path_2}
+	}
+
+	egyptian_generic_path_5 = { ###
+		modifier = {
+			light_infantry_cost = -0.05
+			light_infantry_movement_speed = 0.05
+			camels_cost = -0.05
+			camels_movement_speed = 0.05
+			army_maintenance_cost = 0.01
+		}
+		allow = {military_tech >= 7}
+		icon = greek_antigonid_path_6
+		requires = {egyptian_generic_path_3}
+	}
+
+	egyptian_generic_path_6 = { ###
+		modifier = {
+			light_infantry_cost = -0.05
+			light_infantry_movement_speed = 0.05
+			camels_cost = -0.05
+			camels_movement_speed = 0.05
+			army_maintenance_cost = 0.01
+		}
+		allow = {military_tech >= 7}
+		icon = celtic_gallic_path_1
+		requires = {egyptian_generic_path_4}
+	}
+
+	egyptian_generic_path_7 = { ###
+		modifier = {
+			camels_offensive = 0.1
+			camels_morale = 0.1
+			light_infantry_offensive = 0.1
+			light_infantry_morale = 0.1
+			army_maintenance_cost = 0.01
+		}
+		icon = mauryan_mauryas_path_5
+		requires = {egyptian_generic_path_5}
+	}
+
+	egyptian_generic_path_8 = { ###
+		modifier = {
+			camels_defensive = 0.1
+			camels_discipline = 0.1
+			light_infantry_defensive = 0.1
+			light_infantry_discipline = 0.1
+			army_maintenance_cost = 0.01
+		}
+		icon = celtic_germanic_path_7
+		requires = {egyptian_generic_path_6}
+	}
+
+	egyptian_generic_path_9 = { ###
+		modifier = {
+			warelephant_cost = -0.05
+			warelephant_movement_speed = 0.05
+			heavy_cavalry_cost = -0.05
+			heavy_cavalry_movement_speed = 0.05
+			horse_archers_cost = -0.05
+			horse_archers_movement_speed = 0.05
+			army_maintenance_cost = 0.01
+		}
+		allow = {military_tech >= 13}
+		icon = greek_antigonid_path_6
+		requires = {egyptian_generic_path_7 }
+	}
+
+	egyptian_generic_path_10 = { ###
+		modifier = {
+			warelephant_cost = -0.05
+			warelephant_movement_speed = 0.05
+			heavy_cavalry_cost = -0.05
+			heavy_cavalry_movement_speed = 0.05
+			horse_archers_cost = -0.05
+			horse_archers_movement_speed = 0.05
+			army_maintenance_cost = 0.01
+		}
+		icon = celtic_gallic_path_1
+		allow = {military_tech >= 13}
+		requires = {egyptian_generic_path_8 }
+	}
+
+	egyptian_generic_path_11 = { ###
+		modifier = {
+			warelephant_offensive = 0.1
+			warelephant_morale = 0.1
+			heavy_cavalry_offensive = 0.1
+			heavy_cavalry_morale = 0.1
+			horse_archers_offensive = 0.1
+			horse_archers_morale = 0.1
+			army_maintenance_cost = 0.01
+			global_population_happiness = -0.02
+		}
+		icon = mauryan_mauryas_path_5
+		requires = {egyptian_generic_path_9}
+	}
+
+	egyptian_generic_path_12 = { ###
+		modifier = {
+			warelephant_defensive = 0.1
+			warelephant_discipline = 0.1
+			heavy_cavalry_defensive = 0.1
+			heavy_cavalry_discipline = 0.1
+			horse_archers_defensive = 0.1
+			horse_archers_discipline = 0.1
+			army_maintenance_cost = 0.01
+			global_population_happiness = -0.02
+		}
+		icon = celtic_germanic_path_7
+		requires = {egyptian_generic_path_10}
+	}
+
+
+
+
+
+
+
+
+	levantine_arabian_path_2 = { ###Levantine 1A
+		modifier = {
+			ship_cost = -0.15
+			global_state_trade_routes = 0.05
+			navy_maintenance_cost = 0.01
+		}
+		icon = levantine_philosophy_start_bonus
+		requires = {}
+		on_activate = {
+			ordered_owned_province = {	#Upgrades a port, or creates one
+				limit = {
+					owner = { num_of_ports < 1 }
+					is_coastal = yes
+					NOT = { has_building = port_building }
+					can_build_building = port_building
+				}
+				alternative_limit = {
+					is_coastal = yes
+					has_building = port_building
+					can_build_building = port_building
+				}
+				alternative_limit = {
+					is_coastal = yes
+					can_build_building = port_building
+				}
+				order_by = total_population
+				add_building_level = port_building
+				add_building_level = port_building
+			}
+		}
+	}
+
+	levantine_greek_enable = { ###Levantine 2AA
+		icon = greek_antigonid_path_2
+		modifier = {
+			coastal_terrain_combat_bonus = 0.05
+		}
+		requires = { levantine_arabian_path_2 }
+	}
+
+	levantine_arabian_path_5 = { ###Levantine 2AB
+		modifier = {
+			naval_damage_taken = -0.1
+			navy_maintenance_cost = 0.01
+		}
+		allow_unit_type = octere
+		icon = levantine_arabian_path_5
+		requires = {levantine_arabian_path_2}
+		on_activate = {
+			random_owned_province = {
+				limit = {
+					num_of_port_building > 0
+				}
+				owner = {
+					create_unit = {
+						navy = yes
+						location = prev.prev
+						add_subunit = octere
+						add_subunit = octere
+					}
+				}
+			}
+		}
+	}
+
+	levantine_greco_path_6 = { ###Levantine 3A
+		modifier = {
+			naval_damage_done = 0.15
+			navy_maintenance_cost = 0.01
+		}
+		icon = levantine_greco_path_6
+		requires = {levantine_arabian_path_5 }
+	}
+
+	levantine_egyptian_path_2 = { ###Levantine 4A
+		modifier = {
+			ocean_combat_bonus = 0.05
+			global_ship_recruit_speed = 0.15
+			navy_maintenance_cost = 0.01
+		}
+		allow_unit_type = mega_galley
+		icon = levantine_egyptian_path_2
+		requires = {levantine_greco_path_6}
+		on_activate = {
+			random_owned_province = {
+				limit = {
+					num_of_port_building > 0
+				}
+				owner = {
+					create_unit = {
+						navy = yes
+						location = prev.prev
+						add_subunit = mega_galley
+					}
+				}
+			}
+		}
+	}
+
+	levantine_egyptian_path_5 = { ###Levantine 5A
+		modifier = {
+			octere_cost = -0.15
+			mega_galley_cost = -0.15
+			coastal_terrain_combat_bonus = 0.1
+			riverine_terrain_combat_bonus = 0.1
+			navy_maintenance_cost = 0.01
+		}
+		icon = levantine_egyptian_path_5
+		requires = {levantine_greek_enable}
+	}
+
+
+	levantine_arabian_path_6 = { ###Levantine 3A
+		modifier = {
+			global_building_slot = 1
+			enact_holy_site_cost_modifier = -0.15
+		}
+		icon = levantine_arabian_path_6
+		requires = { }
+	}
+
+	levantine_egyptian_path_3 = { ###Levantine 5B
+		modifier = {
+			global_defensive = 0.075
+			fort_limit = 1
+		}
+		icon = levantine_egyptian_path_3
+		requires = {levantine_arabian_path_6}
+		on_activate = {
+			ordered_owned_province = {	#Upgrades a port, or creates one
+				limit = {
+					can_build_building = fortress_building
+				}
+				order_by = total_population
+				add_building_level = fortress_building
+			}
+		}
+		requires = { levantine_arabian_path_6}
+	}
+
+	levantine_greco_path_end_bonus = { ###Levantine 4BB
+		modifier = {
+		    fort_limit = 1
+		    fort_maintenance_cost = -0.10
+		}
+		icon = levantine_greco_path_end_bonus
+		requires = {levantine_arabian_path_6}
+		on_activate = {
+			add_2_free_province_investments = yes
+			custom_tooltip = "create_high_martial_rising_star"
+			hidden_effect = {
+				create_character = {
+					add_martial = 8
+					add_trait = steadfast
+				}
+			}
+		}
+	}
+
+	Levantine_Generic_Mil = {
+	modifier = {
+		hostile_attrition = 1
+
+	}
+	icon = levantine_arabian_path_6
+	requires = { levantine_greco_path_end_bonus levantine_egyptian_path_3 }
+    }
+
+	Levantine_Generic_Mil_1 = {
+	modifier = {
+		global_supply_limit_modifier = 0.1
+
+	}
+	icon = latin_support_path_5
+	requires = { Levantine_Generic_Mil }
+	}
+
+
+    Levantine_Generic_Civ = {
+	modifier = {
+	    global_population_capacity_modifier = 0.1
+
+    }
+    icon = levantine_greco_path_7
+    requires = {  }
+    }
+
+    Levantine_Generic_Civ_1 = {
+	modifier = {
+		global_monthly_food_modifier = 0.15
+	    global_citizen_happyness = 0.06
+	}
+	icon = levantine_arabian_path_3
+	requires = { }
+	}
+
+	Levantine_Generic_Civ_2 = {
+	modifier = {
+	    price_found_city_cost_modifier = -0.075
+	}
+	icon = greek_states_path_4
+	requires = { Levantine_Generic_Civ_1 }
+	}
+
+	Levantine_Generic_Civ_3 = {
+	modifier = {
+		global_slaves_output = output_large_svalue
+	}
+	icon = levantine_arabian_path_2
+	requires = { Levantine_Generic_Civ }
+	}
+
+	Levantine_Generic_Civ_4 = {
+	modifier = {
+		global_export_commerce_modifier  = 0.075
+	}
+	icon = levantine_arabian_path_1
+	requires = { Levantine_Generic_Civ_3 Levantine_Generic_Civ_2 }
+	}
+
+	Levantine_Generic_Civ_5 = {
+	modifier = {
+        deify_ruler_cost_modifier = -0.1
+		global_food_capacity = 200
+    }
+	icon = latin_tribal_path_3
+	requires = { Levantine_Generic_Civ_4 }
+	}
+}

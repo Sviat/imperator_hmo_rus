@@ -28,9 +28,9 @@
 			country_culture_group = fezzani
 		}
 		trigger_else = {
-			OR = {
-				this.culture.culture_group = culture_group:numidian
-				this.culture.culture_group = culture_group:fezzani
+			custom_tooltip = {
+				always = no
+				text = "tradition_lock_not_a_numidian"
 			}
 		}
 	}
