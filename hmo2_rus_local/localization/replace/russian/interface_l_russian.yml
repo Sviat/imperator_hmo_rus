@@ -443,8 +443,8 @@
  #
  RELEVANT_AS_NAME:0 "$NAME$ ($PRIMARY|Q$)"
  #
- GENERAL_OF:0 "#V Полководец#! региона $NAME|Y$"
- ADMIRAL_OF:0 "#V Флотоводец#! региона $NAME|Y$"
+ GENERAL_OF:0 "#V Полководец#! армии $NAME|Y$"
+ ADMIRAL_OF:0 "#V Флотоводец#! флота $NAME|Y$"
  GOVERNOR_OF:0 "#V Губернатор#! региона $NAME|Y$"
  CLAN_CHIEF_OF:0 "#V Вождь#! клана $NAME|Y$"
  RULER_OF:0 "$TITLE|V$ державы $NAME|Y$ @$TAG$!"
@@ -455,7 +455,7 @@
  HEAD_OF_FAMILY_TITLE:0 "Глава рода #Y $NAME$#!"
  HEAD_OF_FAMILY_TITLE_SHORT:0 "Глава рода #Y $NAME$#!"
  #
- PRETENDER_CHAR_TT:1 "[CHARACTER.GetSheHe|U] [CHARACTER.GetIsWas]  #R претендент#! на пост: $TITLE|Y$"
+ PRETENDER_CHAR_TT:1 "[CHARACTER.GetSheHe|U] [CHARACTER.GetIsWas] #R претендент#! на пост: $TITLE|Y$"
  PRETENDER_CHAR_TT_ADD:1 " и [CHARACTER.GetSheHe] [CHARACTER.GetIsWas] #R претендент#! на пост: $TITLE|Y$"
  PRETENDER_CHAR_TT_ONCE:1 "#R Претендент#!"
  #
@@ -1990,7 +1990,7 @@
  city_desc:1 "Города — главные центра населения и второй по распространенности [Concept( 'province_rank', 'ранг территории' )|E]. Они обладают значительными привилегиями и могут вмещать больше [Concept( 'pops', 'групп населения' )|E], чем любое [GetProvinceRank('settlement').GetName|E], хотя и не так много, как [GetProvinceRank('city_metropolis').GetName|E].\n\nВ городах можно строить городские [Concept( 'buildings', 'здания' )|E], но они не могут производить пищевые [Concept( 'tradegoods', 'товары' )|E]."
  city_metropolis_desc:1 "Метрополии — крупнейшие города мира, представляющие собой урбанистические центра Античности. Это самый редкий [Concept( 'province_rank', 'ранг территории' )|E].\n\nМетрополии намного продуктивнее и могут вмещать больше [Concept( 'pops', 'групп населения' )|E], чем [GetProvinceRank('city').GetName|E] или [GetProvinceRank('settlement').GetName|E], но нужно озаботиться тем, чтобы прокормить их."
  create_high_martial_rising_star:0 "Персонаж с необычайно высоким @military_icon! получает повышение."
- enables_forced_march:0 "Открывает способность войск #Y Стремительный марш#!."
+ enables_forced_march:0 "Открывает способность войск #Y Марш-бросок#!."
  LEGION:0 "Легион"
  began_with_tradition_group:1 "Мы начали игру с доступом к этим традициям. Причина:"
  EDIT_LEGION:0 "Подтвердить изменения"
