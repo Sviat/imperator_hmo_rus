@@ -1,11 +1,11 @@
 ﻿l_russian:
  #GloriousOlbia
- form_gloriousolbia:0 "Образовать Великолепную Народно-Демократическую Республику Ольвия"
- form_gloriousolbia_desc:0 "Народно-Демократическая Республика Ольвия принесла культурное обогащение варварским племенам в замерзших пустынях севера, дав им великолепное образование, цивилизацию, науку и демократию. Поскольку наш великолепный лидер вернулся в Великолепную Народно-Демократическую Республику Ольвия после долгого, великолепого заграничного путешествия по великолепным "дипломатическим" причинам, и поскольку мы, безусловно, великолепны, демократичны и являемся республикой, настало время провозгласить наше Великолепие, заявив официально о том, что наша страна будет называться #Y Великолепная Народно-Демократическая Республика Ольвия#!."
- formable_gloriousolbia:0 "Великолепная Ольвия"
- GLORIOUSOLBIA_NAME:0 "Великолепная Народно-Демократическая Республика Ольвия"
+ form_gloriousolbia:0 "Образовать Великолепную Народно-Демократическую Республику Ольбия"
+ form_gloriousolbia_desc:0 "Народно-Демократическая Республика Ольбия принесла культурное обогащение варварским племенам в замерзших пустынях севера, дав им великолепное образование, цивилизацию, науку и демократию. Поскольку наш великолепный лидер вернулся в Великолепную Народно-Демократическую Республику Ольбия после долгого, великолепого заграничного путешествия по великолепным 'дипломатическим' причинам, и поскольку мы, безусловно, великолепны, демократичны и являемся республикой, настало время провозгласить наше Великолепие, заявив официально о том, что наша страна будет называться #Y Великолепная Народно-Демократическая Республика Ольбия#!."
+ formable_gloriousolbia:0 "Великолепная Ольбия"
+ GLORIOUSOLBIA_NAME:0 "Великолепная Народно-Демократическая Республика Ольбия"
  GLORIOUSOLBIA_ADJECTIVE:0 "Ольвийск"
- glorious_olbia_not_exists:0 "#Y Великолепная Народно-Демократическая Республика Ольвия#! НЕ существует."
+ glorious_olbia_not_exists:0 "#Y Великолепная Народно-Демократическая Республика Ольбия#! НЕ существует."
 
  #Kavkasia
  form_kavkasia:0 "Образовать Кавказию"
@@ -95,7 +95,7 @@
  CELTIC_EMPIRE_ADJECTIVE:0 "Кельтск"
  celtic_empire_not_exists:0 "#Y Кельтская империя#! НЕ существует."
 
- #Данаприс
+ #Danapris
  form_danapris:0 "Образовать Данаприс"
  form_danapris_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Данаприс#!"
  formable_danapris:0 "Данаприс"
@@ -103,7 +103,7 @@
  DANAPRIS_ADJECTIVE:0 "Данаприск"
  danapris_not_exists:0 "#Y Данаприс#! НЕ существует."
 
- #Земля Израильская
+ #Eretz Yisrael
  form_eretz_yisrael:0 "Образовать Земля Израильская"
  form_eretz_yisrael_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Земля Израильская#!"
  formable_eretz_yisrael:0 "Земля Израильская"
@@ -111,7 +111,7 @@
  ERETZ_YISRAEL_ADJECTIVE:0 "Израильск"
  eretz_yisrael_not_exists:0 "#Y Земля Израильская#! НЕ существует."
 
- #Страна Басков
+ #Euskal Herria
  form_euskal_herria:0 "Образовать Страна Басков"
  form_euskal_herria_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Страна Басков#!"
  formable_euskal_herria:0 "Страна Басков"
@@ -119,7 +119,7 @@
  EUSKAL_HERRIA_ADJECTIVE:0 "Баскск"
  euskal_herria_not_exists:0 "#Y Страна Басков#! НЕ существует."
 
- #Гераклейская лига
+ #Heraklean League
  form_heraklean_league:0 "Образовать Гераклейская лига"
  form_heraklean_league_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Гераклейская лига#!"
  formable_heraklean_league:0 "Гераклейская лига"
@@ -127,7 +127,7 @@
  HERAKLEAN_LEAGUE_ADJECTIVE:0 "Гераклейск"
  heraklean_league_not_exists:0 "#Y Гераклейская лига#! НЕ существует."
 
- #Эритрейская лига
+ #Erythraean League
  form_erythraean_league:0 "Образовать Эритрейская лига"
  form_erythraean_league_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Эритрейская лига#!"
  formable_erythraean_league:0 "Эритрейская лига"
@@ -135,7 +135,7 @@
  ERYTHRAEAN_LEAGUE_ADJECTIVE:0 "Эритрейск"
  erythraean_league_not_exists:0 "#Y Эритрейская лига#! НЕ существует."
 
- #Эритрейская Империя
+ #Erythraean Empire
  form_erythraean_empire:0 "Образовать Эритрейская Империя"
  form_erythraean_empire_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Эритрейская Империя#!"
  formable_erythraean_empire:0 "Эритрейская Империя"
@@ -143,7 +143,7 @@
  ERYTHRAEAN_EMPIRE_ADJECTIVE:0 "Эритрейск"
  erythraean_empire_not_exists:0 "#Y Эритрейская Империя#! НЕ существует."
 
- #Эвксинская Империя
+ #Euxine Empire
  form_euxine_empire:0 "Образовать Эвксинская Империя"
  form_euxine_empire_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Эвксинская Империя#!"
  formable_euxine_empire:0 "Эвксинская Империя"
@@ -151,7 +151,7 @@
  EUXINE_EMPIRE_ADJECTIVE:0 "Эвксинск"
  euxine_empire_not_exists:0 "#Y Эвксинская Империя#! НЕ существует."
 
- #Эвксинская Лига
+ #Euxine League
  form_euxine_league:0 "Образовать Эвксинская Лига"
  form_euxine_league_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Эвксинская Лига#!"
  formable_euxine_league:0 "Эвксинская Лига"
@@ -159,7 +159,7 @@
  EUXINE_LEAGUE_ADJECTIVE:0 "Эвксинск"
  euxine_league_not_exists:0 "#Y Эвксинская Лига#! НЕ существует."
 
- #Хинд
+ #Hind
  form_hind:0 "Образовать Хинд"
  form_hind_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Хинд#!"
  formable_hind:0 "Хинд"
@@ -175,7 +175,7 @@
  INDIA_ADJECTIVE:0 "Индийск"
  india_not_exists:0 "#Y Индия#! НЕ существует."
 
- #Испанская Лига
+ #Ispanian League
  form_ispanian_league:0 "Образовать Испанская Лига"
  form_ispanian_league_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Испанская Лига#!"
  formable_ispanian_league:0 "Испанская Лига"
@@ -231,7 +231,7 @@
  MALWA_ADJECTIVE:0 "Мальвийск"
  malwa_not_exists:0 "#Y Мальва#! НЕ существует."
 
- #Нео-Ассирийская империя
+ #Neo-Assyrian Empire
  form_neo_assyrian_empire:0 "Образовать Нео-Ассирийская империя"
  form_neo_assyrian_empire_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Нео-Ассирийская империя#!"
  formable_neo_assyrian_empire:0 "Нео-Ассирийская империя"
@@ -239,7 +239,7 @@
  NEO_ASSYRIAN_EMPIRE_ADJECTIVE:0 "Нео-Ассирийск"
  neo_assyrian_empire_not_exists:0 "#Y Нео-Ассирийская империя#! НЕ существует."
 
- #Нео-Лидийское Царство
+ #Neo-Lydian Kingdom
  form_neo_lydian_kingdom:0 "Образовать Нео-Лидийское Царство"
  form_neo_lydian_kingdom_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Нео-Лидийское Царство#!"
  formable_neo_lydian_kingdom:0 "Нео-Лидийское Царство"
@@ -265,7 +265,7 @@
 
  #Aethiopia
  form_aethiopia:0 "Образовать Эфиопия"
- form_aethiopia_desc:0 " На юге, куда спускается заходящее солнце, лежит страна под названием #Y Эфиопия#, последняя обитаемая земля в этом направлении. Здесь в большом изобилии добывают золото, водятся огромные слоны, дикие деревья всех видов и черное дерево, а люди выше, красивее и долговечнее, чем где бы то ни было."
+ form_aethiopia_desc:0 "На юге, куда спускается заходящее солнце, лежит страна под названием #Y Эфиопия#!, последняя обитаемая земля в этом направлении. Здесь в большом изобилии добывают золото, водятся огромные слоны, дикие деревья всех видов и черное дерево, а люди выше, красивее и долговечнее, чем где бы то ни было."
  formable_aethiopia:0 "Эфиопия"
  AETHIOPIA_NAME:0 "Эфиопия"
  AETHIOPIA_ADJECTIVE:0 "Эфиопск"
@@ -319,7 +319,7 @@
  TOKHARIA_ADJECTIVE:0 "Тохарск"
  tokharia_not_exists:0 "#Y Тохария#! НЕ существует."
 
- #Явана Раджа
+ #Yavana Rajya
  form_yavana_rajya:0 "Образовать Явана Раджа"
  form_yavana_rajya_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Явана Раджа#!"
  formable_yavana_rajya:0 "Явана Раджа"
@@ -327,7 +327,7 @@
  YAVANA_RAJYA_ADJECTIVE:0 "Яванск"
  yavana_rajya_not_exists:0 "#Y Явана Раджа#! НЕ существует."
 
- #Великая Армения
+ #Greater Armenia
  form_greater_armenia:0 "Образовать Великая Армения"
  form_greater_armenia_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Великая Армения#!"
  formable_greater_armenia:0 "Великая Армения"
@@ -391,7 +391,7 @@
  GERMANIC_EMPIRE_ADJECTIVE:0 "Германск"
  germanic_empire_not_exists:0 "#Y Германская Империя#! НЕ существует."
 
- #Тирренская Империя
+ #Tyrrhenian Empire
  form_tyrrhenian_empire:0 "Образовать Тирренская Империя"
  form_tyrrhenian_empire_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Тирренская Империя#!"
  formable_tyrrhenian_empire:0 "Тирренская Империя"
@@ -423,7 +423,7 @@
  MACROBIA_ADJECTIVE:0 "Макробийск"
  macrobia_not_exists:0 "#Y Макробия#! НЕ существует."
 
- #Великая Лепонтия
+ #Greater Lepontia
  form_greater_lepontia:0 "Образовать Великая Лепонтия"
  form_greater_lepontia_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Великая Лепонтия#!"
  formable_greater_lepontia:0 "Великая Лепонтия"
@@ -447,28 +447,28 @@
  ITALY_ADJECTIVE:0 "Итальянск"
  italy_not_exists:0 "#Y Царство Италия#! НЕ существует."
 
- #Остров Манн
+ #Isle of Mann
  form_mann:0 "Образовать Остров Манн"
- form_italy_desc:0 "Мы поселились на этом острове и назвали его своим домом. Обычаи коренных жителей острова интригующи и уникальны, мы можем перенять их традиции и культуру, чтобы закрепить нашу власть над островом и тем самым провозгласить себя законными правителями Острова Манн."
+ form_mann_desc:0 "Мы поселились на этом острове и назвали его своим домом. Обычаи коренных жителей острова интригующи и уникальны, мы можем перенять их традиции и культуру, чтобы закрепить нашу власть над островом и тем самым провозгласить себя законными правителями Острова Манн."
  MANN_NAME:0 "Остров Манн"
  MANN_ADJECTIVE:0 "Манск"
  mann_not_exists:0 "#Y Остров Манн#! НЕ существует."
 
- #Империя Манн
+ #Empire of Mann
  form_mann_empire:0 "Образовать Империя Манн"
  form_mann_empire_desc:0 "Мы вышли далеко за пределы нашего родного острова, покорив под своим славным знаменем просторы Альбиона. Мы больше не можем называть себя простым Остров Манн, ибо теперь мы - огромная и могущественная Империя Манн, которой завидует весь известный мир, наша сила не знает границ, а другие королевства трепещут при одном только упоминании о Манне."
  MANN_EMPIRE_NAME:0 "Империя Манн"
  MANN_EMPIRE_ADJECTIVE:0 "Манск"
  formable_not_mann_empire_exists:0 "#Y Империя Манн#! НЕ существует."
 
- #Индо-Германское царство
+ #Indo-Germanic Kingdom
  form_indger:0 "Образовать Индо-Германское царство"
  form_indger_desc:0 "Мы переселились далеко за пределы нашей германской родины и нашли богатую и плодородную землю к востоку от гор Гиндукуша. С этим местом, ставшим фундаментом нашей новой страны, мы сможем добиться процветания нашего народа."
  INDGER_NAME:0 "Индо-Германское царство"
  INDGER_ADJECTIVE:0 "Индо-Германск"
  indger_not_exists:0 "#Y Индо-Германское царство#! НЕ существует."
 
- #Остроготское царство
+ #Ostrogothic Kingdom
  form_ostrogothic_kingdom:0 "Образовать Остроготское царство"
  form_ostrogothic_kingdom_desc:0 "Наша родина в Германии стала слишком перенаселенной, ее ресурсов больше не хватает для поддержания постоянно растущего населения. На юге, в городе под названием "Рим", есть теплый, богатый и щедрый край. Мы можем переселиться туда и взять этот "Рим" себе, чтобы основать могущественное царство."
  OSTROGOTH_NAME:0 "Остроготское царство"
@@ -482,14 +482,14 @@
  VANDALIA_ADJECTIVE:0 "Вандальск"
  vandalia_not_exists:0 "#Y Вандалия#! НЕ существует."
 
- #Пуническая Лига
+ #Punic League
  form_punic_league:0 "Образовать Пуническая Лига"
  form_punic_league_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Пуническая Лига#!"
  PUNIC_LEAGUE_NAME:0 "Пуническая Лига"
  PUNIC_LEAGUE_ADJECTIVE:0 "Пуническ"
  punic_league_not_exists:0 "#Y Пуническая Лига#! НЕ существует."
 
- #Вестготское Царство
+ #Visigothic Kingdom
  form_visigothic_kingdom:0 "Образовать Вестготское Царство"
  form_visigothic_kingdom_desc:0 "Наша родина в Германии стала слишком перенаселенной, ее ресурсов больше не хватает для поддержания постоянно растущего населения. За Галлией, в землях на юго-западе, есть сведения о гостеприимном и благоприятном климате, который идеально подходит для нашего народа. Мы можем захватить эти земли и провозгласить себя Вестготским Царством."
  VISIGOTH_NAME:0 "Вестготское Царство"
@@ -519,7 +519,7 @@
  formable_not_alba_exists:0 "#Y Альба#! НЕ существует."
  formable_alba_capital:0 "Наша столица должна быть расположена в областях #Y Каледония#!, #Y Таексалия#! или #Y Вотадиния#!."
 
- #Западная Греция
+ #Graecia Occidentis
  form_graecia_occidentis:0 "Образовать Западная Греция"
  form_graecia_occidentis_desc:0 "Со скромного начала, как колония, мы выросли и расширились далеко за пределы наших первоначальных границ, завоевав и эллинизировав всю Галлию. Как бастион всей западной греческой цивилизации, мы больше не можем называть себя простой колонией, а провозглашаем нашу славную империю как Западная Греция."
  GRAECIA_OCCIDENTIS_NAME:0 "Западная Греция"
@@ -543,7 +543,7 @@
  jalabhumi_not_exists:0 "#Y Джалабхуми#! НЕ существует."
  formable_jalabhumi_capital:0 "Наша столица должна быть расположена в регионах #Y Германия#! или #Y Бельгика#!"
 
- #Халдейская Империя
+ #Chaldean Empire
  form_chaldean_empire:0 "Образовать Халдейская Империя"
  form_chaldean_empire_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Халдейская Империя#!"
  CHALDEAN_EMPIRE_NAME:0 "Халдейская Империя"
@@ -563,7 +563,7 @@
  SICSYRIA_NAME:0 "Сицирия"
  SICSYRIA_ADJECTIVE:0 "Сицирийск"
  formable_not_sicsyria_exists:0 "#Y Сицирия#! НЕ существует."
- formable_sicsyria_capital:0 "Наша столица должна быть расположена на острове Сицирия!"
+ formable_sicsyria_capital:0 "Наша столица должна быть расположена на острове #Y Сицилия#!!"
 
  #Baetica
  form_baetica:0 "Образовать Баэтика"
@@ -581,40 +581,40 @@
 
  #Quadia
  form_quadia:0 "Образовать Квадиа"
- form_quadia_desc:0 "Our homeland is no longer suitable for habitation, where the once bountiful forests are stripped bare of wild game. The Carpathian hills to the southeast were recently abandoned by the Boii tribes, leaving the environment lush with animals to hunt and berries to gather. Let us leave these woods behind us and settle there to become Quadia."
+ form_quadia_desc:0 "Наша родина больше не пригодна для обитания, где раньше росли густые лесы полные дичи, сейчас пустота. Бойские племена недавно покинули холмы Карпат к юго-востоку отсюда. Там всем хватит зверей для охоты и ягод для сбора. Оставим же позади эти леса и осядем там, чтобы стать Квадией."
  QUADIA_NAME:0 "Квадиа"
  QUADIA_ADJECTIVE:0 "Квадск"
  quadia_not_exists:0 "#Y Квадиа#! НЕ существует."
 
  #Gothia
  form_gothia:0 "Образовать Готия"
- form_gothia_desc:0 "Our people have fought and feuded with eachother in petty tribal disputes for as long as we can remember, weakening ourselves while strengthening our adversaries. If we can unite the Gothic tribes along the Baltic under our banner, we will be able to use our combined power to dominate the region."
+ form_gothia_desc:0 "Наши племена воевали и ненавидели друга друга, сколько я мы себя знаем, ослабляя друг друга и давая силу нашим врагам. Если объединить плмена Готов и Балтов под нашими знамёнами, мы станем той силой, что наконец-то сможет завоевать эти края."
  GOTHIA_NAME:0 "Готия"
  GOTHIA_ADJECTIVE:0 "Готск"
  gothia_not_exists:0 "#Y Готия#! НЕ существует."
 
  #Boihaemia Magna
  form_boihaemia_magna:0 "Образовать Великую Богемию"
- form_boihaemia_magna_desc:0 "The myriad of tribes spread across northern Europe are powerful and strong, but are scattered, divided, and leaderless. If we mobilize our forces, we can boldly sieze this opportunity to usurp power in this vaccum and annex the region. With our strong leadership, we would be able to fuse our two warlike cultures together and forge a syncretic Celto-Germanic empire capable of fighting all who would dare to oppose us."
+ form_boihaemia_magna_desc:0 "Тысячи племён разбрасанных по всей северной Европе хоть сильны и могуществены, но также разобщены и лишены лидера. Если мы соберем свои силы, тогда мы сможем в нужный момент заполнить вакуум власти и завоевать эту область. Под нашим твёрдым руководством две воинственные культуры сплавятся воеидо и образуют Кельто-Германскую империю, способную сразить всех дерзнувшим бросить нам вызов."
  BOIHAEMIA_MAGNA_NAME:0 "Великая Богемия"
  BOIHAEMIA_MAGNA_ADJECTIVE:0 "Великобогемск"
  boihaemia_magna_not_exists:0 "#Y Великую Богемию#! НЕ существует."
 
  #Brittany
  form_brittany:0 "Образовать Бретань"
- form_brittany_desc:0 "The isle of Britain is too scarred, wartorn, and chaotic to ensure the survival of our culture. The conditions of Armorica just across the sea to the south are far more sustainable and prosperous. If we can settle our people there, we can establish a kingdom of Brittany that will ensure our traditions and customs will survive."
+ form_brittany_desc:0 "Остров Братиня слишком раззорён войнами и погряз в хаосе, чтобы обеспечить выживание нашей культуры. Земли Арморики неподалёку через море гораздо более богаты и обеспечат нас всем необходимым. Как только мы сможем заселиться там, мы образуем царство Бретань, чем обеспечим долгую жизнь нашим традициям и культуре."
  BRITTANY_NAME:0 "Бретань"
  BRITTANY_ADJECTIVE:0 "Бретонск"
  brittany_not_exists:0 "#Y Бретань#! НЕ существует."
 
  #Britannia
  form_britannia:0 "Образовать Британия"
- form_britannia_desc:0 "Our great empire has collapsed, leaving our administration in chaos and disarray. We might be able to secure our survival by relocating our center of governance to the province of Britannia and ruling from there until the time is right to retake our homeland."
+ form_britannia_desc:0 "Наша великая империя рухнула, оставив после себя государство в полном хаосе и дезорганизации. Мы можем ещё предотвратить полный коллапс, если переместим правительство в провинцию Британия, набираться сил до тех пор, пока не сможем отбить нашу Родину."
  BRITANNIA_NAME:0 "Британия"
  BRITANNIA_ADJECTIVE:0 "Британск"
  britannia_not_exists:0 "#Y Британия#! НЕ существует."
  formable_britannia_capital:0 "Наша столица должна быть расположена в регионах #Y Британия#! или #Y Каледония#!"
- formable_britannia_does_not_own_italy:0 "Мы не должны владеть землей в районе #Y Италия#!"."
+ formable_britannia_does_not_own_italy:0 "Мы не должны владеть землей в районе #Y Италия#!."
 
  #Pannonia
  form_pannonia_dacia:0 "Образовать Паннония"
@@ -622,11 +622,11 @@
  form_pannonia_germanic:0 "Образовать Паннония"
  form_pannonia_scythian:0 "Образовать Паннония"
  form_pannonia_baltic:0 "Образовать Паннония"
- form_pannonia_dacia_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a great kingdom worthy of remembrance. Our bretheren are scattered and divided, lead by lesser rulers unworthy of their title; if we can unite the region, we can proclaim ourselves the true master of Pannonia."
- form_pannonia_celtic_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a great kingdom worthy of remembrance. Our bretheren are scattered and divided, lead by lesser rulers unworthy of their title; if we can unite the region, we can proclaim ourselves the true master of Pannonia."
- form_pannonia_germanic_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
- form_pannonia_scythian_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
- form_pannonia_baltic_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a new home for our people, where they will never know fear and the horrors of war again. The inhabitants of this region are sparse and fractured along petty tribal feuds, if we act now, we can conquer this region and establish ourselves as the masters of Pannonia."
+ form_pannonia_dacia_desc:0 "Карпатский бассейн, укрытый горами с севера и востока, а также защищённый реками на юге, идеальное место для основания великого царства, достойного войти в анналы истории. Наши братья разрозненны и разобщены, управляются владыками, недостойными всоих титулов. Если мы сможем объединить регион, мы наречем себя истинными владыками Паннонии."
+ form_pannonia_celtic_desc:0 "Карпатский бассейн, укрытый горами с севера и востока, а также защищённый реками на юге, идеальное место для основания великого царства, достойного войти в анналы истории. Наши братья разрозненны и разобщены, управляются владыками, недостойными всоих титулов. Если мы сможем объединить регион, мы наречем себя истинными владыками Паннонии."
+ form_pannonia_germanic_desc:0 "Карпатский бассейн, укрытый горами с севера и востока, а также защищённый реками на юге, идеальное место для нашего нового дома, чтобы люди наконец-то могли перестать бояться и жить в страхе войны. Обитатели этого региона немногочисленны и раздроблены племенными междоусобицами, если мы начнём действовать прямо сейчас, мы можем завоевать весь регион и станем истинными владыками Паннонии."
+ form_pannonia_scythian_desc:0 "Карпатский бассейн, укрытый горами с севера и востока, а также защищённый реками на юге, идеальное место для нашего нового дома, чтобы люди наконец-то могли перестать бояться и жить в страхе войны. Обитатели этого региона немногочисленны и раздроблены племенными междоусобицами, если мы начнём действовать прямо сейчас, мы можем завоевать весь регион и станем истинными владыками Паннонии."
+ form_pannonia_baltic_desc:0 "Карпатский бассейн, укрытый горами с севера и востока, а также защищённый реками на юге, идеальное место для нашего нового дома, чтобы люди наконец-то могли перестать бояться и жить в страхе войны. Обитатели этого региона немногочисленны и раздроблены племенными междоусобицами, если мы начнём действовать прямо сейчас, мы можем завоевать весь регион и станем истинными владыками Паннонии."
  PANNONIA_NAME:0 "Паннония"
  PANNONIA_ADJECTIVE:0 "Паннонск"
  pannonia_not_exists:0 "#Y Паннония#! НЕ существует."
@@ -634,14 +634,14 @@
 
  #Estu Imperija
  form_estu_imperija:0 "Образовать Эстийская Империя"
- form_estu_imperija_desc:0 "Our people have always been reliant upon the amber trade in order to survive and thrive. However, our lands are not the only source of this precious stone in the region; there are others to the north and west which produce it as well, but whose people are not subject to our realm. In order to secure the future of our people, we must expand far and wide, creating a vast empire upon which all sources of amber are Aestian! For with our monopoly secured, our lifeblood shall be secured."
+ form_estu_imperija_desc:0 "Наши люди всегда полагались на торговлю янтарём как на залог выживания и даже процветания. Но не только наши земли богаты этим ценным камнем, есть люди на севере и на западе, которые тоже добывают янтарь и не подчиняются нам. Чтобы обеспечить будущее нашего народа, мы должны заходить всё дальше и дальше, и создать в конечном итоге империю Эстов, единолично контроллирующую весь янтарь. И когда монополия будет обеспечена, обеспечен будет и наш род."
  ESTU_IMPERIJA_NAME:0 "Эстийская Империя"
  ESTU_IMPERIJA_ADJECTIVE:0 "Эстийск"
  estu_imperija_not_exists:0 "#Y Эстийская Империя#! НЕ существует."
 
- #Левантинская Республика
+ #levantine Republic
  form_levantine_republic:0 "Образовать Левантинская Республика"
- form_levantine_republic_desc:0 "The Levant shall band together to defend it's peoples."
+ form_levantine_republic_desc:0 "Весь Левант встанет плечём к плечу чтобы защитить своих людей."
  LEVANTINE_REPUBLIC:0 "Левантинская Республика"
  LEVANTINE_ADJECTIVE:0 "Левантийск"
  levantine_color:0 "Левантийский пурпур"
@@ -649,78 +649,84 @@
 
  #Republic Of Nile
  form_republic_of_nile:0 "Республика Нил"
- form_republic_of_nile_desc:0 "The Nile shall prosper under our new control"
+ form_republic_of_nile_desc:0 "Нил будет процветать под нашим контролем"
 
  #Grand Republic
  create_grand_republic:0 "Создать Великую Республику"
- create_grand_republic_desc:0 "Our Republic has grown to dominate a massive amount of land prompting a need to restructure our government's foundations to accommodate the logistical needs of this grand amount of land."
+ create_grand_republic_desc:0 "Наша республика разрослась чтобы контролировать огромные пространства, а потому нужна реструктуризация нашего правительства, чтобы лучше отвечать запросам логистики и управления."
 
  #Lower Egypt
  form_lower_egypt:0 "Объединить Нижний Египет"
- form_lower_egypt_desc:0 "If we are to bring the Kemetic people back to glory we must first unite the people of Lower Egypt."
+ form_lower_egypt_desc:0 "Чтобы вернуть славу народу Кемета, сначала мы должны объединить народы Нижнего Египта."
  LOWER_EGYPT:0 "Нижний Египет"
 
  #Upper Egypt
  form_upper_egypt:0 "Объединить Верхний Египет"
- form_upper_egypt_desc:0 "If we are to bring the Kemetic people back to glory we must first unite the people of Upper Egypt."
+ form_upper_egypt_desc:0 "Чтобы вернуть славу народу Кемета, сначала мы должны объединить народы Верхнего Египта."
  UPPER_EGYPT:0 "Верхний Египет"
 
  #Kemet
  form_kemet:0 "Объединить народ Кемета"
- form_kemet_desc:0 "We can once again unite the corwns of upper and lower Egypt after centeruies of occupation. The people of Kemet will rise once more!"
+ form_kemet_desc:0 "И вновь мы соединяем короны нижнего и верхнего Египта после столетий окупации. Народ Кемета восстал вновь!"
  KEMET_NAME:0 "Кемет"
 
  #Thrace
  form_thrace:0 "Образовать Фракию"
- form_thrace_desc:0 "Our people have a proud warrior tradition, where we have long resisted attempts by outsiders to subjugate our lands, from the Achaemenids to the Macedonians. However, the Thracians are split among countless tribes and kingdoms, emboldening our foes. If we can unite the disparate polities under our banner, the labrys shall slice the way toward a future dominated by Thracians."
+ form_thrace_desc:0 "Наш народ имеют славные воинские традиции, выработанные в ответ на попытки чужаков завоевать наши земли, от Ахеменидов до македонцев. Фракийцы распределены по бесчисленным племенам и царствам, что воодушевляет наших врагов. Если мы сможем объединить разрозненные полисы под нашим флагом, дальше уже лабрисы пробьют путь в будущее, в котором правят фракийцы."
  THRACE_THRACIAN_NAME:0 "Фракия"
  THRACE_THRACIAN_ADJECTIVE:0 "Фракийск"
  thrace_not_exists:0 "#Y Фракия#! НЕ существует."
 
  #Meshwesh
  form_meshwesh:0 "Образовать Мешвеш"
- form_meshwesh_desc:0 "For as long as the sands have flowed in the desert, we have lived in the shadow of our Egyptian neighbors, scavenging for scraps while they feast like kings and erect exorbitant tombs. No more! We shall be the Pharaohs now and take what is rightfully ours!"
+ form_meshwesh_desc:0 "Столько песок блуждал по пустыням, столько и мы жили в тени наших египетских соседей, побираясь по развалинам пока они пировали как цари и воздвигали непомерные гробницы. Хватит! Мы сами будем Фараонами и возьмём то, что по праву наше!"
  MESHWESH_NAME:0 "Мешвеш"
  MESHWESH_ADJECTIVE:0 "Мешвешск"
  meshwesh_not_exists:0 "#Y Мешвеш#! НЕ существует."
 
  #Hellenic Kingdom
  form_hellenic_kingdom:0 "Образовать Греческое Царство"
- form_hellenic_kingdom_desc:0 "Hellas is fractured and weak, divided between city states who fight amongst themselves and stand for nothing but their own petty self-interests. Alexander showed us that true leadership must come from a centralized power in the hands of a strong king fit to rule; In order to restore strength, prosperity, and glory for the people of Greece, we must follow Alexander's example and forge a new pan-Hellenic kingdom from the ashes of his empire."
+ form_hellenic_kingdom_desc:0 "Эллада раздроблена и слаба, поделена меж городами-государствами дерущимися друг с другом, и не заботящимися ни о чём, кроме своих мелочных корыстных интересов. Александр показал нам, что истинное лидерство может исходить только от единого центра - сильного царя, достойного управлять. И чтобы восстановить мощь, благосостояние и славу народа Греции, мы должны последовать примеру Александра и выковать новое панэллинское царство на руинах его империи."
  HELLENIC_KINGDOM_NAME:0 "Греческое Царство"
  HELLENIC_KINGDOM_ADJECTIVE:0 "Греческ"
  hellenic_kingdom_not_exists:0 "#Y Греческое Царство#! НЕ существует."
 
  #Nemedia
  form_nemedia:0 "Образовать Немедия"
- form_nemedia_desc:0 "Left virtually deserted from years of plague and famine, the Emerald Isle beacons for more people to till it's rich soil, reap it's crops, and establish settlements. While the great journey across the sea will be both perilous and treacherous, as long as we have faith in Thagimasadas, we will survive and then thrive in our new homeland, Nemedia."
+ form_nemedia_desc:0 "Изумрудный остров, практически вымерший за годы чумы и голода, зовёт людей чтобы возделывать плодородную землю, собирать богатый урожай и заселять деревни. И пусть дальний путь через моря будет рискован и усыпан препятствиями, пока мы верим в Фагимасада, мы сумеем выжить, а затем и вовсе расцветём на нашей новой родине, Немедии."
  NEMEDIA_NAME:0 "Немедия"
  NEMEDIA_ADJECTIVE:0 "Немедийск"
  nemedia_not_exists:0 "#Y Немедия#! НЕ существует."
 
  #Arfordir Chwal
  form_arfordir_chwal:0 "Образовать Арфордир Хвал"
- form_arfordir_chwal_desc:0 "Британия - страна постоянных раздоров, где борьба между правителями превращает повседневную жизнь в сплошную неопределенность. За восточным морем лежит страна рыболовов, у берегов которой наверняка кишат рыбные стаи, готовые накормить голодный народ. Давайте же соберем отряд наших лучших, закаленных в боях воинов и покинем этот забытый остров, чтобы никогда не возвращаться, ибо мы возьмем новый у Расколотого Побережья или Арфордир Хвал"
+ form_arfordir_chwal_desc:0 "Британия - страна постоянных раздоров, где борьба правителей превращает повседневную жизнь в сплошную неопределенность. За восточным морем лежит страна рыболовов, у берегов которой наверняка кишат рыбные стаи, готовые накормить голодный народ. Давайте же соберем отряд наших лучших, закаленных в боях воинов и покинем этот забытый остров, чтобы никогда не возвращаться, ибо мы возьмем новый у Расколотого Побережья или Арфордир Хвал"
  ARFORDIR_CHWAL_NAME:0 "Арфордир Хвал"
  ARFORDIR_CHWAL_ADJECTIVE:0 "Арфордир Хвал"
  arfordir_chwal_not_exists:0 "#Y Арфордир Хвал#! НЕ существует."
 
  #Ishkuza
  form_ishkuza:0 "Образовать Ишкуза"
- form_ishkuza_desc:0 "Centuries ago, the Mesopotamians regarded the warriors of the Steppe with terror and horror, where the very mention of our names was enough to send shivers down their spines. Now we have been forgotten, neglected and overshadowed by other powers; civilized men give us not even a second thought, if they are at all aware of our existance. For too long we have been passive and soft, content to sit and watch the world go by; let us once again raise a host of warriors and penetrate beyond the mountain passes, where we shall sack and lay ruin to the wealthy and pretentious cities of the world. Only then shall the name Ishkuza once again strike the fear into our enemies that it deserves."
+ form_ishkuza_desc:0 "Столетиями месопотамцы смотрели на воинов Степи со страхом в глазах, и даже упоминания нашего имени было достаточно, чтобы они дрожали от страха. Сейчас мы позабыты, другие силы затмили нашу славу; цивиллизованное общество даже не думает о нас, если вообще помнит о нашем существовании. Слишком долго мы были пассивны и мягки, довольствуясь созерцанием того, как развивается мир. Подымем множество воинов и проникнем сквозь горные ущелья, где мы разграбим и сожжём все самые богатые и претензиозные города мира. Только тогда имя Ишкузи вновь начнёт заслуженно внушать страх нашим врагам."
  ISHKUZA_NAME:0 "Ишкуза"
  ISHKUZA_ADJECTIVE:0 "Ишкузск"
  ishkuza_not_exists:0 "#Y Ишкуза#! НЕ существует."
 
  #Liguria
  form_liguria:0 "Образовать Лигурия"
- form_liguria_desc:0 "The Ligurians have persisted in Cisalpine Gaul for millenia, living divided among small tribes and toiling in the fields. However, a new power to the south is rising which, if left unchecked, could threaten our very existance. In order to counteract this threat, we must band together into a pan-Ligurian federation capable of fighting those who would subjugate us."
+ form_liguria_desc:0 "Лигурнийцы тясячелетиями существовали в Цизальпийской Галии, живя среди небольших племён и трудясь в поле. Но вот новая сила восходит на юге, если не уделять внимание которой, может начать угрожать нашему существованию. И чтобы справиться с этой угрозой, мы должны объединиться в панлигурнийскую федерацию, способную бороться с теми, кто захочет подчинить нас."
  LIGURIA_NAME:0 "Лигурия"
  LIGURIA_ADJECTIVE:0 "Лигурийск"
  liguria_not_exists:0 "#Y Лигурия#! НЕ существует."
 
  grand_republic:0 "Великая Республика"
- grand_republic_desc:0 "By rebuilding the very foundation our Republic stands on we are now more capable than ever to manage our new lands."
+ grand_republic_desc:0 "Перестроив Республику с самого основания мы теперь гораздо лучше приспособлены к управлению нашими землями."
+ grand_republic_ruler:0 "Правитель"
+ grand_republic_co_ruler:0 "Соправитель"
+ grand_republic_ruler_ROM:0 "Консул"
+ grand_republic_co_ruler_ROM:0 "Второй консул"
+ grand_republic_ruler_CAR:0 "Суффет"
+ grand_republic_co_ruler_CAR:0 "Второй суффет"
 
  nile_republic_heritage:0 "Наследие Республики Нил"
  nile_republic_heritage_desc:0 ""
@@ -730,51 +736,51 @@
  CIMMERIA_NAME:0 "Киммерия"
  CIMMERIA_ADJECTIVE:0 "Киммерийск"
  form_cimmeria:0 "Образовать Киммерия"
- form_cimmeria_desc:0 "North of the black sea lays in our control next the world."
+ form_cimmeria_desc:0 "Всё, что лежит к северу от Чёрного моря уже наше. Дальше - весь остальной мир."
  cimmeria_not_exists:0 "#Y Киммерия#! НЕ существует."
 
- # Form Византийская Империя
+ # Form Byzantine Empire
  form_byzantine_empire:0 "Образовать Византийская Империя"
- form_byzantine_empire_desc:0 "A title which will strike fear to all but all create many enemies "
+ form_byzantine_empire_desc:0 "Титул, во всех вселяющий ужас, но создающий слишком много врагов."
  BYZANTINE_EMPIRE_NAME:0 "Византийская Империя"
  BYZANTINE_EMPIRE_ADJECTIVE:0 "Византийск"
- Byzantine_Empire_not_exists:0 "#YВизантийская Империя#! НЕ существует."
+ Byzantine_Empire_not_exists:0 "#Y Византийская Империя#! НЕ существует."
 
  # Form Greater Scythia
  form_greater_scythia:0 "Образовать Великая Скифия"
- form_greater_scythia_desc:0 "The time of the horse lords has came"
+ form_greater_scythia_desc:0 "Пришло время повелителей Степи"
  Greater_Scythia_not_exists:0 "#Y Великая Скифия#! НЕ существует."
  GREATER_SCYTHIA_NAME:0 "Великая Скифия"
  GREATER_SCYTHIA_ADJECTIVE:0 "Скифск"
 
- #Batatanac
+ #Baratanac
  form_baratanac:0 "Образовать Федерация Баратанака"
- form_baratanac_desc:0 "For generations Dido and Azibal have been two distant Punic colonies deep in a foreign land surrounded by alien countries. If we were to unite with our kin across the channel, we would be in a position to establish a federation capable of monopolizing trade and projecting our influence, becoming a worthy successor to the Punic and Phoenecian realms of our forebearers."
+ form_baratanac_desc:0 "На протяжении поколений Дидо и Азибал были отдалёнными пуническими колониями глубоко в стане враждебных стран. Если мы сможем объединить далёких родственников по обе стороны пролива, мы будем и в состоянии создать федерацию, способную монополизировать торговлю и распространить свою сферу интересов, став достойным преемником пунийских и финикийских предков."
  BARATANAC_NAME:0 "Федерация Баратанака"
  BARATANAC_ADJECTIVE:0 "Баратанаск"
  baratanac_not_exists:0 "#Y The Федерация Баратанака#! НЕ существует."
 
  #Hekamet
  form_hekamet:0 "Образовать Хекамет"
- form_hekamet_desc:0 "Long have we persecuted and oppressed the followers of Yahweh within our lands, preventing any serious debate or discussion on the message they preach. Now that the Greek pretenders have been ousted, there are some powerful and influential elites within our government who think that there may be some truth in what the Israelites have to say, however, and that we should incorporate some of their ideas into our new kingdom. By adopting Judaism as our official state religion, we will become Hekamet, and with our newfound faith, Yahweh will ensure that our zealous Pharaoh shall keep our lands free from foreign barbarians."
+ form_hekamet_desc:0 "Долгое время мы преследовали и угнетали последователей Яхве в наших землях, пресекая любые серьёзные разговоры или обсуждения тех идей, которые они проповедуют. Теперь же, когда греческие правители свергнуты, в элитах нашей страны появились влиятельные и могущественные люди, которые считают, что слова израильтян есть истина и нам следует поставить их идеи в основание нашего нового царства. Приняв иудаизм государственной религией мы станем Хекаметом, и нашей новой верой Яхве позаботится о том, чтобы наш фараон и впредь держал земли свободными от варваров."
  HEKAMET_NAME:0 "Хекамет"
  HEKAMET_ADJECTIVE:0 "Хекаметск"
  hekamet_not_exists:0 "#Y Хекамет#! НЕ существует."
 
  #Pannonia (Pannonian)
  form_pannonia_pannonian:0 "Образовать Паннонию"
- form_pannonia_pannonian_desc:0 "Protected by the mountains in the north and east and shielded by rivers to the south, the Carpathian basin is the perfect place to establish a great kingdom worthy of remembrance. Our bretheren are scattered and divided, lead by lesser rulers unworthy of their title; if we can unite the region, we can proclaim ourselves the true master of Pannonia."
+ form_pannonia_pannonian_desc:0 "Карпатский бассейн, укрытый горами с севера и востока, а также защищённый реками на юге, идеальное место для основания великого царства, достойного войти в анналы истории. Наши братья разрозненны и разобщены, управляются владыками, недостойными всоих титулов. Если мы сможем объединить регион, мы наречем себя истинными владыками Паннонии." # See: form_pannonia_dacia_desc
 
  #Slavia
  form_slavia:0 "Образовать Славия"
- form_slavia_desc:0 "Us Slavs have lived along the boundaries of the known world for millennia, eeking out a meager existence dwelling among the vast forests. Yet in spite of our similarities, we are scattered and divided, living as if we were separate peoples, fighting and warring amongst eachother over petty despites and meaningless feuds. If we were to rise up and subdue the rest of our kin, we could proclaim a pan-Slavic federation stretching from the Baltic Sea to the Steppe, capable of subduing those foolish enough to challenge us."
+ form_slavia_desc:0 "Мы, славяне. долго на краю известного мира тысячелетиями, ищя выхода из жалкого существования среди бескрайних лесов. Несмотря на наши сходства, мы разобщены и разделены, живём как будто мы друг другу чужия, сражаясь и враждуя из пустяковых споров и бессмысленной неприязни. Если бы мы вырвались вперёд и подчинили остальных родичей, мы смогли бы провозгласить панславянскую федерацию простирающуюся от Балтийского моря до Степи, способную ставить на место глупцов бросающих нам вызов."
  SLAVIA_NAME:1 "Славия"
  SLAVIA_ADJECTIVE:0 "Славянск"
  formable_not_slavia_exists:0 "#Y Славия#! НЕ существует."
 
  #Tibetan Empire
  form_tibetan_empire:0 "Образовать Тибетская Империя"
- form_tibetan_empire_desc:0 "Tibet has long been a backwater, isolated on the mountain tops which protect us. However, our harsh and trecherous lands will not protect us forever, for sooner or later, we will be conquered by a force too great and terrable to overcome on our own; to survive we must end our time of isolation, and actively lay conquest to our neighbors. With the borders of our realm stretching from the Steppe to the coast, we can proclaim a glorious Tibetan Empire capable of projecting power and influence from the top of the world!"
+ form_tibetan_empire_desc:0 "Тибет давно уже глухомань, изолированная и защищённая горными вершинами. Но наши суровый и коварный ландшафт не сможет защищать нас вечно, рано или поздно, но мы будем завоёваны силой, слишком большой для нас одних. Чтобы выжить мы должны покончить с изоляционизмом, и положить начало завоеванию соседей. Как только границы нашего царства простинутся от Степи до побережья, мы провозгласим великую Тибетскую Империю, распространяющую своё влияние с вершины мира!"
  TIBETAN_EMPIRE_NAME:0 "Тибетская Империя"
  TIBETAN_EMPIRE_ADJECTIVE:0 "Тибетск"
  tibetan_empire_not_exists:0 "#Y Тибетская Империя#! НЕ существует."
@@ -788,18 +794,18 @@
 
  #Fezzan
  form_fezzan:0 "Образовать Феззан"
- form_fezzan_desc:0 "This vast and desolate desert has been our home for millennia, its harsh and treacherous conditions ensuring that only the strong can survive amongst the dunes and rocks. Foreigners and outsiders are beginning to encroach on lands they have no right to be, their unwelcome presence an insult to our very existence. Let us bring together the other Fezzani clans and cast these barbarians back out across the sea!"
+ form_fezzan_desc:0 "Обширные выжженные пустыни, что тысячелетиями были нам домом, способствовали выживанию средь дюн и скал лишь самых сильных. Иностранцы и чужаки решили покуситься на земли, на которые у них нет никаких прав, их нежданное появление оскорбляет наше существование. Так соберём же вместе все остальные Феззанские кланы и выгоним этих варваров назад в море!"
  FEZZAN_NAME:0 "Феззан"
  FEZZAN_ADJECTIVE:0 "Феззанск"
  fezzan_not_exists:0 "#Y Феззан#! НЕ существует."
 
  #Wigaza
  form_wigaza:0 "Образовать Вигаза"
- form_wigaza_desc:0 "Exiled from our homeland, we have travelled far and wide, surviving by pillaging the settlements we come across and gradually gaining strength by recruiting the stragglers found along the way. To the east lies a wealthy land known to the Greeks as Anatolia that finds itself in the midst of a struggle for power and control; Once our warband is of sufficient size, we will be ready to pounce on these so-called 'great' powers and crush their inept and unprepared armies, to seize control of Anatolia's riches for our own prosperity for generations to come!"
+ form_wigaza_desc:0 "Изгнанные со своих исконных земель, мы заходили все дальше и дальше, живя грабежом всех встречных поселений, и постепенно набирая силу за счёт встреченных по пути чужаков. На востоке лежат богатые земли, названные греками Анатолией, которые сейчас вовлечены в схватку за власть на регионом. Как только наша дружина достаточно разрастётся, мы будем готовы наскочить на так называемые 'великие' державы и сокрушить их неумелые и неготовые войска, чтобы взять богатства Анатолии под свой контроль, и обеспечить благополучие наших потомков на века!"
  WIGAZA_NAME:0 "Вигаза"
  WIGAZA_ADJECTIVE:0 "Вигазанск"
  wigaza_not_exists:0 "#Y Вигаза#! НЕ существует."
- formable_wigaza_capital:0 "Наша столица должна быть расположена либо в Анатолии, либо в Греции"
+ formable_wigaza_capital:0 "Наша столица должна быть расположена либо в #Y Анатолии#! либо в #Y Греции#!."
 
  #Iberoalania (Nyguylania)
  form_nyguylania:0 "Образовать Ибероалания"
@@ -807,7 +813,7 @@
  NYGUYLANIA_NAME:0 "Ибероалания"
  NYGUYLANIA_ADJECTIVE:0 "Ибероаланск"
  nyguylania_not_exists:0 "#Y Ибероалания#! НЕ существует."
- formable_nyguylania_capital:0 "Наша столица должна быть расположена на Иберийском полуострове"
+ formable_nyguylania_capital:0 "Наша столица должна быть расположена на #Y Иберийском полуострове#!."
 
  #Atrebatia
  form_atrebatia:0 "Образовать Атребатия"
@@ -829,11 +835,12 @@
  ZVEJIA_NAME:0 "Зведжия"
  ZVEJIA_ADJECTIVE:0 "Зведжийск"
  zvejia_not_exists:0 "#Y Зведжия#! НЕ существует."
- formable_zvejia_capital:0 "Наша столица должна быть расположена в регионах #Y Британия#! или #Y Каледония#!"
+ formable_zvejia_capital:0 "Наша столица должна быть расположена в регионах #Y Британия#! или #Y Каледония#!."
 
  #Olovia
  form_olovia:0 "Образовать Оловия"
  form_olovia_desc:0 "Наша родина - пустыня, покрытая чащей неприступного леса и окруженная враждебными рейдерами на границе. Но далеко на западе есть остров, который, по легенде, содержит богатые залежи олова и омывается гостеприимным морем. Оставим же эти проклятые земли и поплывем к острову олова, где мы сможем стать как никогда богатыми и процветающими!"
+ formable_olovia_capital:0 "Наша столица должна быть расположена в регионах #Y Британия#! или #Y Каледония#!."
  OLOVIA_NAME:0 "Оловия"
  OLOVIA_ADJECTIVE:0 "Оловийск"
  olovia_not_exists:0 "#Y Оловия#! НЕ существует."
@@ -848,4 +855,4 @@
  VAPIA_NAME:0 "Вапия"
  VAPIA_ADJECTIVE:0 "Вапийск"
  vapia_not_exists:0 "#Y Вапия#! НЕ существует."
- formable_vapia_capital:0 "Наша столица должна быть расположена в Анатолии, в Армении или в Колхиде."
+ formable_vapia_capital:0 "Наша столица должна быть расположена в #Y Анатолии#!, в #Y Армении#! или в #Y Колхиде#!."
