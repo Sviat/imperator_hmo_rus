@@ -4,7 +4,3 @@
 	civil_war_buff_ai:0 "Бонус гражданской войны"
 	local_forum_building_cost:0 "Стоимость строительства Форума"
 	task_average_loyalty_failed:0 "Не прошел обычную проверку на лояльность"
-	raid_cost_modifier:0 "Стоимость рейда"
-
-	### Missing from HMO2 even as localization entity, added by HMO2 RUS in .gui files
-	tooltip_research: "Очков исследования: [InGameTopbar.GetPlayer.GetResearch|1]"

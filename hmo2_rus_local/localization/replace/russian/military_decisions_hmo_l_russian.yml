@@ -22,7 +22,7 @@
  indian_espionage_bureau_desc:0 " Этого хотел бы Каутилья"
  grand_assault:0 "Яростный штурм"
  grand_assault_desc:0 ""
- 
+
  grand_siege:0 "Большая осада"
  grand_siege_desc:0 "Устроить грандиозную осаду, чтобы покорить самую могучую из крепостей."
 
@@ -45,7 +45,7 @@
  fortified_capital_desc:0 ""
  grand_assault_mod:0 "Яростный штурм"
  grand_assault_mod_desc:0 ""
- grand_siege_mod:0 "Большая осада"
- grand_siege_mod_desc:0 ""
+ grand_siege_mod:0 "Великая осада"
+ grand_siege_mod_desc:0 "Великая осада опрокинет даже самые высокие из башен."
 
- fortress_ramparts_building_cost:0 "Модификатор стоимости земляных работ"
+ fortress_ramparts_building_cost:0 "Модификатор стоимости земляных укреплений"

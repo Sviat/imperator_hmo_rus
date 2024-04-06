@@ -6,7 +6,7 @@
  assign_mission_act_past:0 "Спящий паук просыпается"
  ready_for_mission_tt:0 "Готов к новой миссии."
  recently_busy_tt:0 "Все еще восстанавливается после последнего задания."
- assigned_mission:0 "Недавно Завершенная Миссия"
+ recent_assigned_mission:0 "Недавно завершена миссия"
 
  assign_mission.1.t:0 "Змея в траве"
  assign_mission.1.desc:0 "Наш верный слуга [target.GetName] устроился за границей и ожидает приказов. Как [target.GetSheHe] сможет получить преимущество над принимающей страной?"

@@ -87,3 +87,5 @@
 	#added 12/03/2021
 	performance_mm_MAPMODE: "Производительная карта"
 	performance_mm_MAPMODE_DESC: "#T Производительная карта#!\nТо же самое, что и #Y Политическая карта#!, но всегда используется плоская карта.\nЭто поможет, если у вас низкий FPS при увеличении масштаба."
+	#hmo fixes
+	topbar_research_points: "Очков исследования: [InGameTopbar.GetPlayer.GetResearch|1]"

@@ -2148,12 +2148,4 @@
  POP_CULTURE_SLICE_TT:0 "[PopCultureItem.GetTooltip]\n\nВнутренний процент показывает долю [Concept( 'pops', 'населения' )|E] этой [Concept( 'province', 'провинции' )|E], принадлежащего к [Concept( 'integrated', 'поглощённым' )|E] [Concept( 'culture', 'культурам' )|E]."
  POP_RELIGION_SLICE_TT:1 "[PopReligionItem.GetName]\n\nВнутренний процент показывает долю [Concept( 'pops', 'населения' )|E] этой [Concept( 'province', 'провинции' )|E], исповедующего государственную [Concept( 'religion', 'религию' )|E].\n\n#G Щёлкните, чтобы закрепить центральную информацию.#!"
  POP_TYPE_TOTAL_TT:0 "[PopTypeItem.GetName]\n\nВнутреннее значение показывает суммарное население [Concept( 'province', 'провинции' )|E].\n\n#G Щёлкните, чтобы закрепить центральную информацию.#!"
-
- SLAVES_OVERWORKED:0 "Рабы перегружены работой и могут погибнуть"
-
-# === [LocEditor:OrphanedKeys] Keys that do not exist in English ===
- RAISE_LEVY_HAS_LEVY:0 "Ополчения этого губернаторства уже собраны."
- RAISE_LEVY_MIN_SIZE:0 "Это губернаторство либо слишком мало, чтобы поддерживать минимальное количество ополчения, либо поддерживает слишком много когорт [Concept( 'legion', 'легиона' )|E]."
- RAISE_POTENTIAL_SUBUNIT_AMOUNT:0 "$AMOUNT|+=$"
- RAISE_LEVY_SUBUNIT_AMOUNT:0 "$RAISED_AMOUNT$ ($POTENTIAL_AMOUNT|+=$)"
- LEGION_DISTINCTION_TEXT:0 "Модификатор легиона:"
+ LEGION_DISTINCTION_TEXT:0 "Модификатор легиона:" # HMO RUS FIX TO VANILLA

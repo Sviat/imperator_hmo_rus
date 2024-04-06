@@ -98,7 +98,7 @@
  knife_fighter:0 "Боец с ножом"
  gifted_slave:0 "Одаренный Раб"
  counterintelligence:0 "Контрразведка"
- assigned_mission:0 "Назначена миссия"
+ assigned_intel_mission:0 "Назначена миссия"
 
  worse_martial_01:0 "Неуклюжий"
  worse_finesse_01:0 "Невежественный"
@@ -163,9 +163,6 @@
 #Country culture modifiers
  petty_noble_other:0 "Наслаждаются достатком"
  petty_noble:0 "Избалованная знать"
-
-#Province modifiers
- recent_slave_death:0 "Сокращение численности рабов"
 
 #Country modifiers
  spy_recruited:0 "Расширение государственной разведки"
