@@ -1,0 +1,91 @@
+﻿country_decisions = {
+
+	# Form the Lombard Kingdom
+	# Created by Shinymewtwo99
+	form_lombardy = {
+
+		potential = {
+			num_of_cities >= 1
+			country_culture_group = germanic
+			is_tribal = yes
+			tag = LGB
+			NOT = {
+				tag = LOM
+			}
+			NOR = {
+				is_tier_1_formable_trigger = yes
+				is_tier_2_formable_trigger = yes
+				is_endgame_tag_trigger = yes
+			}
+			OR = {
+				is_ai = no
+				num_of_cities <= 12
+			}
+		}
+
+		highlight = {
+			scope:province = {
+				OR = { # HMO RUS FIX TO HMO
+					is_in_region = germania_magna_region
+					is_in_region = scandinavia_region
+					is_in_region = bohemia_region
+					is_in_region = belgica_region
+					is_in_region = rhaetia_region
+				}
+			}
+		}
+
+		allow = { # HMO RUS FIX TO HMO
+			custom_tooltip = {
+				text = lombardy_not_exists
+				NOT = { # HMO RUS FIX TO HMO
+					any_country = {
+						tag = LOM
+					}
+				}
+			}
+			# HMO RUS FIX TO HMO
+			can_form_nation_trigger = yes
+			owns_or_subject_owns_region = germania_magna_region
+			owns_or_subject_owns_region = scandinavia_region
+			owns_or_subject_owns_region = bohemia_region
+			owns_or_subject_owns_region = belgica_region
+			owns_or_subject_owns_region = rhaetia_region
+		}
+
+		effect = {
+			custom_tooltip = "tier_1_formable_tooltip"
+			change_country_name = LOMBARDY_NAME
+			if = {
+				limit = { is_tribal = yes }
+				add_country_modifier = {
+					name = civilized_tribe
+					duration = 5475
+				}
+				change_government = tribal_federation
+				switch_government_type_event_clearup_effect = yes
+			}
+			hidden_effect = {
+				change_country_adjective = LOMBARDY_ADJECTIVE
+				change_country_tag = LOM
+				change_country_color = lombardy_color
+				change_country_flag = LOMBARDY_FLAG
+				trigger_event = {
+					id = formable_heritage.93
+				}
+			}
+			capital_scope = {
+				establish_city_effect = yes
+				capital_formable_small_effect = yes
+				formable_capital_modifier_normal_effect = yes
+			}
+			add_1_free_province_investments = yes
+		}
+
+		ai_will_do = {
+			base = 1
+		}
+	}
+
+}
+
