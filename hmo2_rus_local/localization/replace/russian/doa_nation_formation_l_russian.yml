@@ -184,12 +184,12 @@
  ispanian_league_not_exists:0 "#Y Испанская Лига#! НЕ существует."
 
  #Italia
- form_italia:0 "Образовать Италия"
- form_italia_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Италия#!"
- formable_italia:0 "Италия"
- ITALIA_NAME:0 "Италия"
- ITALIA_ADJECTIVE:0 "Итальянск"
- italia_not_exists:0 "#Y Италия#! НЕ существует."
+ form_italia:0 "Образовать Италика"
+ form_italia_desc:0 "Мы объединились, чтобы заставить мир вкусить нашу ярость. Отныне мы будем известны всем как #Y Италика#!"
+ formable_italia:0 "Италика"
+ ITALIA_NAME:0 "Италика"
+ ITALIA_ADJECTIVE:0 "Италийские"
+ italia_not_exists:0 "#Y Италика#! НЕ существует."
 
  #Kshaharata
  form_kshaharata:0 "Образовать Кшахарата"
@@ -439,7 +439,7 @@
  LOMBARDY_ADJECTIVE:0 "Ломбардск"
  lombardy_not_exists:0 "#Y Ломбардия#! НЕ существует."
 
- #Italy
+ #Italy # medieval kingdom of Italy, not used right now in HMO
  form_italy:0 "Образовать Царство Италия"
  form_italy_desc:0 "Мы завоевали практически всю Италию, теперь настало время сформировать централизованную администрацию и провозгласить себя единственными хозяевами этого региона, создав царство Италия."
  formable_italy:0 "Царство Италия"

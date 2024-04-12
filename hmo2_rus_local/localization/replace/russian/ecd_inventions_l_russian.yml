@@ -102,7 +102,7 @@
  global_tribesmen_output_inv_2_desc:0 "Предоставленное этническим меньшинствам право на самоуправление снижает нагрузку на государство и увеличивает эффективность племенного общества."
  global_tribesmen_output_inv_3:0 "Земельная десятина"
  global_tribesmen_output_inv_3_desc:0 "Присутствие в нашей державе чужеземных племён порождает недовольство, но налог в виде десятины на занимаемую ими землю, может успокоить недовольных, а заодно позволит нам немного заработать."
- land_tithe_tooltip:0 " Случайная [THIS.GetCountry.GetAdjective]ая [Concept( 'territory', 'территория' )|E] получит #Y 6#! [Concept( 'pops', 'групп' )|E] людей племён @tribesmen!."
+ land_tithe_tooltip:0 "Случайная [THIS.GetCountry.GetAdjective]ая [Concept( 'territory', 'территория' )|E] получит #Y 6#! [Concept( 'pops', 'групп' )|E] людей племён @tribesmen!."
  global_tribesmen_output_inv_4:0 "Племенные представители"
  global_tribesmen_output_inv_4_desc:0 "Учредив институт племенных представителей, которые будут говорить от имени племён на наших границах, мы предоставим им возможность участия в политическом процессе."
  global_tribesmen_output_inv_5:0 "Право на религиозные ритуалы"
