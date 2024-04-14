@@ -5,11 +5,16 @@
   MODIFIER_LOCAL_HAPPINESS_FOR_WRONG_RELIGION_MODIFIER:0 "Счастье последователей других религий в провинции"
   # For some reasons this didnt work from fighting_modifiers and invictus_military_traditions.
   # May be it will work from here.
+  light_cavalry_farmland_combat_bonus:0 "Лёгкая Кавалерия на Пахотных Землях"
+  heavy_cavalry_farmland_combat_bonus:0 "Тяжёлая Кавалерия на Пахотных Землях"
+  heavy_infantry_farmland_combat_bonus:0 "Тяжёлая Пехота на Пахотных Землях"
   horse_archers_desert_combat_bonus:0 "Конные Лучники в Пустынях"
   light_cavalry_desert_combat_bonus:0 "Лёгкая Кавалерия в Пустынях"
   light_cavalry_plains_combat_bonus:0 "Лёгкая Кавалерия на Равнинах"
   light_cavalry_farmland_combat_bonus:0 "Лёгкая Кавалерия на Пахотных Землях"
   light_infantry_mountain_combat_bonus:0 "Лёгкая Пехота в Горах"
+  # For some reasons this still comes from Vanilla even though we replaced it multiple times
+  # May be it will work from here.
   archers_mountain_combat_bonus:0 "Лучники в Горах"
   heavy_infantry_mountain_combat_bonus:0 "Тяжёлая Пехота в Горах"
   light_infantry_jungle_combat_bonus:0 "Лёгкая Пехота в Джунглях"
