@@ -6,3 +6,5 @@
  MODIFIER_MAX_MERC_STACKS_desc:0 "Количество армий наёмников, которые держава может содержать."
  FREE_BUILDING_SLOTS_NOT_TRIGGER:0 "НЕ имеет свободных ячеек строительства $COMPARATOR$ $NUM|Y$."
  FREE_BUILDING_SLOTS_TRIGGER:0 "Имеет свободных ячеек строительства $COMPARATOR$ $NUM|Y$."
+ HAS_CAPITAL_SURPLUS_TR:0 "[STATE.GetName|Y] имеет избыток товара в столице."
+ HAS_NOT_CAPITAL_SURPLUS_TR:0 "[STATE.GetName|Y] не имеет избытка товара в столице."
