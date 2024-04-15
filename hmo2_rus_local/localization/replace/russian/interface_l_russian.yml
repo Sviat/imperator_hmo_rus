@@ -2093,7 +2093,7 @@
  CANNOT_CREATE_LEGION_DESC:0 "#T Создать легион#!\n$REASON$"
  LEGION_LEGATE_TITLE:0 "Командует [Character.GetName]"
  EDIT_COMPOSITION_SUBUNIT_DESC:1 "#T Добавить когорту#!\nВ ваш [Concept( 'legion', 'легион' )|E] добавляется [SubUnitType.GetName|E]. Каждое подразделение при найме стоит [SubUnitType.GetPrice.GetShortInfo( Player.Self )].\nИзменения применяются вручную.\n#I ЛКМ — назначить в состав.\n#I ПКМ — отменить назначение в состав."
- EDIT_COMPOSITION_SWAP_COMMANDER_DESC:0 "#T Выбрать кандидата#!\nПривлечь нового [Concept( 'legion_commander', 'кандидата' )|E] для вербовки в [Concept( 'legion', 'легион' )|E].\nПри создании легиона первый командир станет [Concept( 'legate', 'легатом' )|E] и займет пост командующего любым созданным подразделением."
+ EDIT_COMPOSITION_SWAP_COMMANDER_DESC:0 "#T Выбрать кандидата#!\nПривлечь нового [Concept( 'legion_commanders', 'кандидата' )|E] для вербовки в [Concept( 'legion', 'легион' )|E].\nПри создании легиона первый командир станет [Concept( 'legate', 'легатом' )|E] и займет пост командующего любым созданным подразделением."
  CANT_REMOVE_LEGION_COMMANDER_BEFORE:0 "@trigger_no!Этого командира нельзя уволить до $DATE$."
  DISBAND_NON_LEVY:0 "Невозможно распустить ополчение. Для роспуска откройте военный обзор"
  STAT_EXPERIENCE:1 "@monthly_character_experience_icon! Управление"
