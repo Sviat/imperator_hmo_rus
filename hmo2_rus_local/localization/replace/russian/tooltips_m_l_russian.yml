@@ -3,7 +3,7 @@
  form_aethiopia_claims_tooltip:0 "Эфиопия получит права на провинции #Y Саба#! , #Y Катаба#! , #Y Атбарас#! , #Y Птолемаида Охоты#! , #Y Восточная Аравия Плодородная#! и #Y Мероэ#!."
  form_aksum_claims_tooltip:0 ""
  form_anatolia_claims_tooltip:0 ""
- 
+
  ArmyMaintUp_TT:0 "@gold! Стоимость содержания армии: #r +1.00%#!"
  NavyMaintUp_TT:0  "@gold! Стоимость содержания флота: #r +1.00%#!"
  manpowercd:0 "Вы можете отправлять людские ресурсы не чаще, чем #Y раз#! в месяц".
@@ -16,4 +16,4 @@
  furious_assault_decision:0 "Это изобретение открывает специальное решение #Y Яростный штурм#! для штурма замка".
  grand_siege_decision:0 "Это изобретение открывает специальное решение #Y Великая осада#!, чтобы свергнуть самую высокую башню".
 
- have_1_trade_goods_tooltip:0 "Инвестируйте в #Y 1#! Новые торговые пути в [SCOPE.sP('governorship_capital').GetState.GetShortName]. ([governorship_capital.Cu
+ have_1_trade_goods_tooltip:0 "Инвестируйте в #Y 1#! Новые торговые пути в [SCOPE.sP('governorship_capital').GetState.GetShortName]. ([governorship_capital.Custom('get_trade_investment_mission_loc')]/#Y 3#!)"
