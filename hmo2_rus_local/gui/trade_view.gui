@@ -305,7 +305,7 @@ base_window = {
 										}
 
 										widget = {
-											size = { 183 100% }
+											size = { 196 100% }
 											onmousehierarchyenter = "[SetHighlightArea( ActiveTradeRoute.GetFrom.GetArea )]"
 											textbox = {
 												using = BaseFontS
@@ -370,7 +370,7 @@ base_window = {
 											}
 										}
 										widget = {
-											size = { 183 100% }
+											size = { 196 100% }
 											onmousehierarchyenter = "[SetHighlightArea( ActiveTradeRoute.GetTo.GetArea )]"
 											textbox = {
 												using = BaseFontS
