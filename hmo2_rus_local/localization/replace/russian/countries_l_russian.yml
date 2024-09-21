@@ -2573,7 +2573,7 @@
  ASIAN_KINGDOM:0 "Азиатское царство"
 
  #Old Rhodes Territory
- KAO:0 'Каунос'
+ KAO:0 "Каунос"
  KAO_ADJ:0 "Кауносск"
  PYK:0 "Фискос"
  PYK_ADJ:0 "Фискосск"
@@ -2619,7 +2619,7 @@
  GMO:1 "Гумо"
  GMO_ADJ:0 "Гумо"
  XIW:1 "Сяовань"
- XIW_ADJ:0  Сяовань"
+ XIW_ADJ:0 "Сяовань"
 
  #New Burma
  NYA:0 "Няунгган"
