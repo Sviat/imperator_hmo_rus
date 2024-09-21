@@ -54,19 +54,19 @@
  deity_sumatinatha:0 "$omen_sumatinatha$"
 
  omen_padmaprabha:0 "Падмапрабха"
- божество_Падмапрабха:0 "$omen_padmaprabha$"
+ deity_padmaprabha:0 "$omen_padmaprabha$"
 
  omen_suparshvanatha:0 "Suparshvanatha"
  deity_suparshvanatha:0 "$omen_suparshvanatha$"
 
  omen_chandraprabha:0 "Чандрапрабха"
- божество_Чандрапрабха:0 "$omen_chandraprabha$"
+ deity_chandraprabha:0 "$omen_chandraprabha$"
 
  omen_pushpadanta:0 "Пушпаданта"
- божество_пушпаданта:0 "$omen_pushpadanta$"
+ deity_pushpadanta:0 "$omen_pushpadanta$"
 
  omen_shitalanatha:0 "Шиталанатха"
- божество_shitalanatha:0 "$omen_shitalanatha$"
+ deity_shitalanatha:0 "$omen_shitalanatha$"
 
  omen_chakreshvari:0 "Чакрешвари"
  deity_chakreshvari:0 "$omen_chakreshvari$"
