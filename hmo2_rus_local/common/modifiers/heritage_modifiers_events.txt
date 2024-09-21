@@ -564,7 +564,7 @@ clan_modifier = {
 }
 
 tribal_modifier = {
-	light_infantry_discipline = 0.05
+	light_infantry_discipline = 0.1
 	land_morale_modifier = 0.05
 	global_citizen_output = negative_output_small_svalue
 }
