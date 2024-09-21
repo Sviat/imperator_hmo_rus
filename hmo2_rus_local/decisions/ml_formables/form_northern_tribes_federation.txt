@@ -2,7 +2,7 @@
 	# Northern Tribe Federation
 	# Designed by Neidhardt, created by Neidhardt
 	form_northern_tribes_federation = {
-		
+
 		potential = {
 			num_of_cities >= 1
 			country_culture_group = britannic
@@ -18,7 +18,7 @@
 				is_endgame_tag_trigger = yes
 			}
 		}
-		
+
 		highlight = {
 			scope:province = {
 				OR = {
@@ -29,7 +29,7 @@
 				}
 			}
 		}
-		
+
 		allow = {
 			custom_tooltip = {
 				text = northern_tribes_federation_not_exists
@@ -45,7 +45,7 @@
 			owns_or_subject_owns_area = cornovia_area
 			owns_or_subject_owns_area = coritania_area
 		}
-		
+
 		effect = {
 			custom_tooltip = "tier_1_formable_tooltip"
 			change_country_name = "NORTHERN_TRIBES_FEDERATION_NAME"
@@ -57,7 +57,7 @@
 				}
 				change_government = tribal_federation
 				switch_government_type_event_clearup_effect = yes
-			}		
+			}
 			hidden_effect = {
 				change_country_adjective = "NORTHERN_TRIBES_FEDERATION_ADJECTIVE"
 				change_country_color =  "northern_tribes_federation_color"
@@ -65,9 +65,9 @@
 				change_country_flag = NORTHERN_TRIBES_FEDERATION_FLAG
 				trigger_event = {
 					id = formable_heritage.186
-				}				
+				}
 			}
-			custom_tooltip = northern_tribes_federation_tooltip
+			custom_tooltip = northern_tribes_federation_claims_tooltip
 			hidden_effect = {
 				region:britannia_region = { formable_region_province_effect = yes }
 				region:caledonia_region = { formable_region_province_effect = yes }
@@ -87,11 +87,11 @@
 					formable_capital_modifier_normal_effect = yes
 			}
 		}
-		
+
 		ai_will_do = {
 			base = 1
 		}
 	}
 
-} 
+}
 
