@@ -2,7 +2,7 @@
 	# Northern Magna Celtae
 	# Designed by Neidhardt, created by Neidhardt
 	form_magna_celtae = {
-		
+
 		potential = {
 			num_of_cities >= 1
 			country_culture_group = gallic
@@ -18,7 +18,7 @@
 				is_endgame_tag_trigger = yes
 			}
 		}
-		
+
 		highlight = {
 			scope:province = {
 				OR = {
@@ -32,7 +32,7 @@
 				}
 			}
 		}
-		
+
 		allow = {
 			custom_tooltip = {
 				text = northern_tribes_federation_not_exists
@@ -50,7 +50,7 @@
 			owns_or_subject_owns_area = remia_area
 			owns_or_subject_owns_area = celtica_orientalis_area
 		}
-		
+
 		effect = {
 			custom_tooltip = "tier_1_formable_tooltip"
 			change_country_name = "MAGNA_CELTAE_NAME"
@@ -62,7 +62,7 @@
 				}
 				change_government = tribal_federation
 				switch_government_type_event_clearup_effect = yes
-			}		
+			}
 			hidden_effect = {
 				change_country_adjective = "MAGNA_CELTAE_ADJECTIVE"
 				change_country_color =  "magna_celtae_color"
@@ -70,7 +70,7 @@
 				change_country_flag = MAGNA_CELTAE_FLAG
 				trigger_event = {
 					id = formable_heritage.187
-				}				
+				}
 			}
 			custom_tooltip = magna_celtae_tooltip
 			hidden_effect = {
@@ -87,17 +87,17 @@
 			capital_scope = {
 				establish_city_effect = yes
 			}
-			p:2475 = { change_province_name = "Lutetia Celtae" }
+			p:2475 = { change_province_name = "PROV2475_сeltae" }
 			capital_scope = {
 					capital_formable_large_effect = yes
 					formable_capital_modifier_normal_effect = yes
 			}
 		}
-		
+
 		ai_will_do = {
 			base = 1
 		}
 	}
 
-} 
+}
 
