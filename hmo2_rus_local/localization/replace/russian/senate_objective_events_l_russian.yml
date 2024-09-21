@@ -1,4 +1,5 @@
-﻿l_russian: # FIX TO VANILLA TRANSLATION
+﻿l_russian:
+ # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
  senatorial_veto_tt:1 "[THIS.GetCountry.GetRuler.GetPraenomen] использует своё #R право вето как [THIS.GetCountry.GetRulerTitle]#!:"
  senate_agenda_passed_tt:0 "Достигнута цель фракции:"
  senate_objectives.1.t:0 "Законы олигархов"

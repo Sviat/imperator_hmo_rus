@@ -1,4 +1,5 @@
-﻿l_russian: # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
+﻿l_russian:
+ # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
  ### Rome Events ###
  party_events_rome.1.t:0 "[ROOT.GetCountry.Custom('get_court_type')|U] утопает в продажности"
  party_events_rome.1.desc:0 "Фракция популяров, которой руководит [populares_leader.GetName], все громче заявляет, что [ROOT.GetCountry.GetName] заслуживает более достойных правителей, и не скрывает враждебного настроя. После особенно утомительных дебатов [ROOT.GetCountry.Custom('get_court_type')] затихает, и [populares_leader.GetPraenomen] намекает, что [SCOPE.sCharacter('populares_leader').GetSheHe] и [ROOT.GetCountry.GetRuler.GetPraenomen] должны поговорить с глазу на глаз и найти общий язык."

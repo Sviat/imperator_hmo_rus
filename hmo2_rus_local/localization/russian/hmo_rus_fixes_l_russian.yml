@@ -1,4 +1,6 @@
-﻿l_russian: # FIX TO VANILLA TRANSLATION
+﻿l_russian:
+ # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
+ PROV2475_celtae:0 "Лютеция Кельта"
  loyalty_corrupt_ruler:0 "Правитель злоупотребил полномочиями"
  athenian_mission_04_delian_league_task_16_trigger_tt:0 "На территории #Y [GetProvince('(int32)416').GetName]#! есть более #Y [SCOPE.ScriptValue('athenian_mission_04_delian_league_task_16_total')|0]#! свободных людей, чья культура [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName]. ([SCOPE.GetRootScope.GetCountry.Custom('athenian_mission_04_delian_league_task_16_custom_loc')]/#Y [SCOPE.ScriptValue('athenian_mission_04_delian_league_task_16_total')|0]#!)"
  ip_republic_46_tooltip_a:0 "В каждой провинции, где #Y [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName]#! культура не является #Y доминирующей#! (т. е. в #R [SCOPE.ScriptValue('ip_republic_46_tooltip_svalue')]#! провинциях), появятся следующие эффекты:"

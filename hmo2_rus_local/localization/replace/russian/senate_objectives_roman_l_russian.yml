@@ -1,4 +1,5 @@
-﻿l_russian: # FIX TO VANILLA TRANSLATION
+﻿l_russian:
+ # FIX TO VANILLA TRANSLATION
  senate_objective_declare_war_optimates:0 "Объявить войну"
  senate_objective_declare_war_optimates_DESC:0 "$optimates_party$ делают всё, чтобы мы и [sen_obj_dec_war_target.GetName] начали войну. Судя по всему, фракция видит в этом некую выгоду."
  senate_objective_grant_holdings_optimates:0 "Дать владения"

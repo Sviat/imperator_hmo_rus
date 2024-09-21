@@ -1,2 +1,14 @@
-﻿l_russian: # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
+﻿l_russian:
+ # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
  SIEGE_LAST_DICE_ROLL:0 "#T Последний бросок кубиков#!\nЗначение на кубиках осады, которое выпало в последний раз."
+ COHORT_NAME:0 "$HOME$ $NUM$ когорта"
+ MIGRANT_NAME:0 "$HOME$ $NUM$ поселенцы"
+ RETINUE_NAME:0 "$HOME$ $NUM$ свита"
+ MERCENARY_NAME:2 "$NUM$ $TYPE$ из державы $HOME$"
+ MERCENARY_ARMY_NAME:0 "Наёмники $FAMILY$"
+ MERCENARY_NAVY_NAME:0 "Пираты $FAMILY$"
+ RETINUE_ARMY_NAME:0 "Свита клана $FAMILY$"
+ LEGION_NAME:2 "$BASE$ $NUM$ армия"
+ LEVY_NAME:0 "$GOVERNORSHIP$ $NUM$ ополчение"
+ NAVY_NAME:0 "$NUM$ эскадра"
+ MIGRANT_ARMY_NAME:0 "$ADJ$ое $NUM$ переселение"
