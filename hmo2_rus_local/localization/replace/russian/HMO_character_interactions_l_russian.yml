@@ -1097,11 +1097,11 @@
  lift_embargo_act:0 "Новые торговые маршруты между вашими странами могут быть созданы."
  lift_embargo_act_past:0 "Конечно, они хотят купить наши славные торговые товары!"
  lift_embargo_tt:0 "Разрешить создание новых торговых путей с этой нацией"
- embargo.1.t:0 "Эмбарго снято!"
- embargo.1.desc:0 "Наша торговля с (@[SCOPE.sC('actor').GetFlag]! [SCOPE.sC('actor').GetName] была заблокирована!"
+ embargo.1.t:0 "Эмбарго объявлено!"
+ embargo.1.desc:0 "Наша торговля с державой @[SCOPE.sC('actor').GetFlag]! [SCOPE.sC('actor').GetName] была заблокирована!"
  embargo.1.a:0 "Все равно никому не нужны их некачественные товары"
  embargo.2.t:0 "Эмбарго снято!"
- embargo.2.desc:0 "Торговля с (@[SCOPE.sC('actor').GetFlag]!) [SCOPE.sC('actor').GetName] возобновилась!"
+ embargo.2.desc:0 "Торговля с державой @[SCOPE.sC('actor').GetFlag]! [SCOPE.sC('actor').GetName] возобновилась!"
  embargo.2.a:0 "Пусть торговля между нашими странами снова процветает"
 
  #Assassination
