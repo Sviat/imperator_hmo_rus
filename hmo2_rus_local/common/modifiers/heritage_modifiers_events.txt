@@ -504,9 +504,9 @@ asturian_modifier = {
 }
 
 cantabrian_modifier = {
-	hostile_attrition = 0.1
-	fort_maintenance_cost = -0.05
-	global_tax_modifier = -0.05
+	horse_archers_offensive = 0.05
+	global_defensive = 0.05
+	diplomatic_relations = -1
 }
 
 carpetanian_modifier = {
