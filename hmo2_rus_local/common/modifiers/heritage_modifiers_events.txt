@@ -522,9 +522,9 @@ lusitanian_modifier = {
 }
 
 gallaecian_modifier = {
-	ship_cost = -0.1
-	naval_range = 0.15
-	oratory_tech_investment = -0.05
+	global_defensive = 0.1
+	happiness_for_same_religion_modifier = 0.05
+	global_citizen_output = -0.05
 }
 
 suebian_modifier = {
