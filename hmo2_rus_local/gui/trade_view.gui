@@ -96,12 +96,18 @@ base_window = {
 						}
 					}
 					vbox = {
-						layoutpolicy_horizontal = expanding
+						layoutpolicy_vertical = expanding
 						icon_and_text = {
 							size = { 124 0 }
 							blockoverride "Icon" { texture = "gfx/interface/icons/modifiers/global_state_trade_routes.dds" }
-							blockoverride "Text" { text = "[TradeView.GetPlayer.GetModifierValue('global_state_trade_routes')]" }
+							blockoverride "Text" { text = "[TradeView.GetPlayer.GetModifierValue('global_state_trade_routes')|2]" }
 							tooltip = "[TradeView.GetPlayer.GetModifierTooltip('global_state_trade_routes')]"
+						}
+						icon_and_text = {
+							size = { 124 0 }
+							blockoverride "Icon" { texture = "" }
+							blockoverride "Text" { text = "" }
+							tooltip = ""
 						}
 					}
 					vbox = {
