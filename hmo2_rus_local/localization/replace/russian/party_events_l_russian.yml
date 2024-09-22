@@ -73,7 +73,7 @@
  party_events_default.5.a:0 "Дайте [rulers_party_leader.GetHerHim] все, что [rulers_party_leader.GetSheHe] попросит..."
  party_events_default.5.b:0 "Одна история изумительней другой, брат."
  party_events_default.5.c:0 "Да заткните же [rulers_party_leader.GetHerHim] рот, Аида ради!"
- party_events_default.5.ct:0 "Этот вариант доступен, потому что #Y [oligarchic_leader.GetName]#! [Select_CString(oligarchic_leader.IsFemale, 'продажна', 'продажен')]."
+ party_events_default.5.ct:0 "Этот вариант доступен, потому что #Y [opposition_party.GetName]#! [Select_CString(opposition_party.IsFemale, 'продажна', 'продажен')]."
  party_events_default.5.d:0 "Но их же объединяет общий противник, [third_party.GetParty.GetName]. Верно?"
  party_events_default.6.t:0 "Семейная политика"
  party_events_default.6.desc:0 "Если [target_character_compare.GetEmployer.GetName] — политическая арена, то династия [target_character_compare.GetFamilyDisplayName] — один из сильнейших гладиаторов. Но внутренние раздоры привели к тому, что ее члены оказались в разных [target_character_compare.GetEmployer.GetAdjective]их фракциях.\n\n[target_character_compare.GetEmployer.GetRulerTitle] [target_character_compare.GetPraenomen] представляет фракцию [target_character_compare.GetParty.GetName], а [target_character_compare.GetHerHis] [SCOPE.Custom('get_familial_relation')] [family_member_compare.GetPraenomen] считает, что [family_member_compare.GetParty.GetName] достойнее. [SCOPE.Custom('get_court_type')] больше не может выносить их вздорную брань — пора поддержать одну из сторон."
