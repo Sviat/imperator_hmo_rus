@@ -105,7 +105,7 @@ base_window = {
 						}
 						icon_and_text = {
 							size = { 124 0 }
-							blockoverride "Icon" { texture = "" }
+							blockoverride "Icon" { texture = "gfx/interface/icons/modifiers/empty.dds" }
 							blockoverride "Text" { text = "" }
 							tooltip = ""
 						}
@@ -263,7 +263,7 @@ base_window = {
 							datamodel = "[TradeView.GetCurrentTradeRoutes]"
 							item = {
 								widget = {
-									size = { 658 38 }
+									size = { 698 38 }
 									list_entry = {
 										size = { 100% 100% }
 									}
