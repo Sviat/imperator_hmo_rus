@@ -1,5 +1,6 @@
 ﻿l_russian:
  # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
+ diety_cels:0 "$omen_cels$" # easy to create localization for misspelled, than changing god itself
  PROV2475_celtae:0 "Лютеция Кельта"
  loyalty_corrupt_ruler:0 "Правитель злоупотребил полномочиями"
  athenian_mission_04_delian_league_task_16_trigger_tt:0 "На территории #Y [GetProvince('(int32)416').GetName]#! есть более #Y [SCOPE.ScriptValue('athenian_mission_04_delian_league_task_16_total')|0]#! свободных людей, чья культура [SCOPE.GetRootScope.GetCountry.GetPrimaryCulture.GetName]. ([SCOPE.GetRootScope.GetCountry.Custom('athenian_mission_04_delian_league_task_16_custom_loc')]/#Y [SCOPE.ScriptValue('athenian_mission_04_delian_league_task_16_total')|0]#!)"
