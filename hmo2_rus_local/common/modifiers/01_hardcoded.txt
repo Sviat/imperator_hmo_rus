@@ -1,0 +1,6 @@
+﻿# HMO RUS League specific:
+#   it is not possible to modify normal AI (which we use), so replaced HARD AI to be used in leagues
+hard_ai = {
+	happiness_for_same_culture_modifier = 0.1
+	civil_war_threshold = 0.1
+}

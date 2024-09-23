@@ -1182,7 +1182,7 @@
  VERY_EASY:0 "Очень легко"
  EASY:0 "Легко"
  NORMAL:0 "Нормально"
- HARD:0 "Сложно"
+ HARD:0 "Булко-лига" # HMO RUS League specific
  VERY_HARD:0 "Очень сложно"
  NEVER:0 "Никогда"
  MONTHLY:0 "Каждый месяц"
@@ -1827,7 +1827,7 @@
  BASE_TRADEGOODS_PRICE:0 "\n\nБазовая стоимость: $VALUE|Y$@gold!"
  TRADE_VIEW_FILTER_BY_EXPORTS:0 "Экспорт"
  TRADE_VIEW_FILTER_BY_IMPORTS:0 "Импорт"
- TRADE_VIEW_FILTER_BY_DOMESTIC:0 "Внутренняя"
+ TRADE_VIEW_FILTER_BY_DOMESTIC:0 "Внутренние"
  TRADEROUTES_FROM_POPS:0 "От групп населения: $VAL|G=$"
  LOCAL_TRADE_ROUTES_VAL:0 "#T Торговые пути#!\n$NAME$ создает до $VALUE|+=$ торговых путей по причине:\n$WHY$"
  STATE_INVESTMENT_GOLD_SCALE_TT:0 "Из-за наших вложений появились дополнительные затраты: [SCOPE.ScriptValue('calc_governor_investment_fee')|R]@gold!\nДеньги разделят хозяева владений этой провинции."
