@@ -62,6 +62,7 @@
  ARMY_NAME_latin:2 "$ROMAN$ когорта"
  NAVY_NAME_latin:1 "$ROMAN$ флот"
  COHORT_NAME_latin:1 "$HOME$ $ROMAN$ манипула"
+ LEVY_COHORT_NAME_latin:1 "$HOME$ $ROMAN$ манипула ополчения"
  #Britannic
  ARMY_NAME_britannic:2 "$NUM$ слоугос"
  NAVY_NAME_britannic:1 "$NUM$ эскадра"
@@ -102,6 +103,9 @@
  ARMY_NAME_scythia:1 "$NUM$ спада"
  NAVY_NAME_scythia:0 "$NUM$ эскадра"
  COHORT_NAME_scythia:1 "$COHORT_NAME_illyria$"
+ ARMY_NAME_scythian_east:1 "$NUM$ спада" # HMO RUS FIX TO HMO
+ NAVY_NAME_scythian_east:0 "$NUM$ эскадра" # HMO RUS FIX TO HMO
+ COHORT_NAME_scythian_east:1 "$COHORT_NAME_illyria$" # HMO RUS FIX TO HMO
  #Germanic
  ARMY_NAME_germanic:1 "$NUM$ харьяз"
  NAVY_NAME_germanic:1 "$NUM$ флутона"

@@ -75,6 +75,7 @@
  LEGION_NAME_belgae:0 "$LEGION_NAME_britannic$"
  LEGION_NAME_baltic:0 "$BASE$ $NUM$ слог"
  LEGION_NAME_scythia:0 "$LEGION_NAME_persia$"
+ LEGION_NAME_scythian_east:0 "$LEGION_NAME_persia$" # HMO RUS FIX TO HMO
 
  ### Levy name ###
  LEVY_NAME_latin:0 "$GOVERNORSHIP$ $ROMAN$ конскрипты"
