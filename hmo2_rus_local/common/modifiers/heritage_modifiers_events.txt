@@ -26,7 +26,7 @@ sakastani_modifier = {
 danaprisan_modifier = {
 	price_found_city_cost_modifier = -0.1
 	light_cavalry_plains_combat_bonus = 0.2
-	navy_maintenance_cost = -0.05
+	navy_maintenance_cost = 0.05
 }
 
 aethiopian_modifier = {
