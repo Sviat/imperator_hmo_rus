@@ -1,0 +1,50 @@
+﻿l_russian:
+ ### Invictus ###
+
+ deity_ahura_mazda:0 "$omen_ahura_mazda$"
+ omen_ahura_mazda:0 "Ахура Мазда"
+ omen_ahura_mazda_desc:0 "Оромасдес, Господь Мудрости, Несозданный Дух, творящий, скрепляющий своей волей космос и излучающий чистое добро по всей Вселенной - много эпитетов для могущественного божества Ахура Мазда, верховного божества зороастрийской религии. Все святое и благое исходит от Ахура Мазды - сияющего, неизменного маяка надежды в мире тьмы и страданий."
+
+ deity_vohu:0 "$omen_vohu$"
+ omen_vohu:0 "Воху"
+ omen_vohu_desc:0 "В своей всеобъемлющей мудрости Ахура Мазда создал шесть бессмертных существ, известных как 'Амеша Спента', чтобы они исполняли его божественную волю, и Воху - главный из этих слуг. Ведь именно Воху воплощает божественную любовь Ахура Мазды, перенося души ушедших в царство блаженства, которое ожидает верных."
+
+ deity_vahista:0 "$omen_vahista$"
+ omen_vahista:0 "Вахиста"
+ omen_vahista_desc:0 "Вглядывайся в священный огонь, о смертный, и созерцай вечно меняющуюся природу реальности в его танцующем пламени. Знай, что именно Вахишта вверен Ахура Маздой для поддержания путей праведности, и когда в конце времен наступит Судный день для взвешивания и измерения душ, именно Вахишта будет присутствовать рядом со своим Создателем, вынося приговор о поступках и мотивах человека."
+
+ deity_kshatra_vairya:0 "$omen_kshatra_vairya$"
+ omen_kshatra_vairya:0 "Кшатра Вайрья"
+ omen_kshatra_vairya_desc:0 "Руководствуясь своей безграничной мудростью, Ахура Мазда закрепил и распределил между своими творениями владения на земле, наделив Кшатра Вайрья властью над металлами как проявлением своей божественной силы. Олицетворяя силу и праведный путь, Кшатра Вайрья побеждает глупцов, стремящихся к злым делам."
+
+ deity_armaiti:0 "$omen_armaiti$"
+ omen_armaiti:0 "Армаити"
+ omen_armaiti_desc:0 "Любимая дочь могущественного Ахура Мазды, Армаити олицетворяет и усиливает многие грани личности своего Отца, включая владение духовным миром. Адепты Армаити известны своей мягкостью и добротой, понимая, что служение другим доставляет удовольствие Божественному Отцу и обеспечивает их собственную вечную награду."
+
+ deity_spenta_mainyu:0 "$omen_spenta_mainyu$"
+ omen_spenta_mainyu:0 "Спента Майнью"
+ omen_spenta_mainyu_desc:0 "Понимая, что ненавистный дух Ангра-Майнью стремится лишь к разрушению всего доброго и святого, Ахура Мазда дал власть Спенте-Майнью, Святейшему из духов, бороться с темной волей зла и нести свет и добро приверженцам зороастрийской веры."
+
+ deity_haurvatat:0 "$omen_haurvatat$"
+ omen_haurvatat:0 "Хаурватат"
+ omen_haurvatat_desc:0 "Каждая вещь в творении имеет свою противоположность; это постановлено и предписано славным Ахура Маздой в его безграничных возможностях. Если Вахиста - носитель огня, то женская Амеша Спента Хаурватат управляет приливом и отливом воды, используя ее целебные силы, чтобы благословить и защитить своих почитателей от физических недугов этого обреченного мира."
+
+ deity_vishtaspa:0 "$omen_vishtaspa$"
+ omen_vishtaspa:0 "Кави Виштаспа"
+ omen_vishtaspa_desc:0 "Vishtaspa was an earlier follower of Zoroaster who is considered as 'his ally.' Vishtaspa is celebrated as the patron of Zoroaster, and the establisher of the first Zoroastrian community. In Greco-Roman tradition, Vishtaspa is called as 'Hystaspes,' and they considered him as a sage of great antiquity. He is also from the legendary noble line of the Kayanian dynasty."
+
+ deity_husravah:0 "$omen_husravah$"
+ omen_husravah:0 "Кави Хосров"
+ omen_husravah_desc:0 "Кей-Хосров/Кави Хаосрава/Кави Хосрав/Кай Хусроу. The legendary King Kavi Husravah of the Kayanian dynasty, he also features in the Persian epic 'Shahnameh.' His name literally means 'the poet/seer who has good fame/repute.' Not only does he appear in Avesta, but also in Pahlavi texts. He even seems to be mentioned in the Vedas."
+
+ deity_darius:0 "$omen_darius$"
+ omen_darius:0 "Дарий Великий"
+ omen_darius_desc:0 "Shah Darius was a major champion of the Zoroastrian religion. While his predecessors were more vague in their beliefs, preferring to toe the line between Zoroastrian and older Persian religions like Mithraic, the King of Kings considered his reign to be directly given to him by Ahura Mazda himself. And with that divine right, his legendary reign would leave him imortaized as 'Darius the Great,' surpassing all Persian Shahs save Cyrus himself."
+
+ deity_aphrodite_anaitis:0 "$omen_aphrodite_anaitis$"
+ omen_aphrodite_anaitis:0 "Афродита-Анахита"
+ omen_aphrodite_anaitis_desc:0 "Zoroastrianism during the Hellenistic Age developed many syncretisms, among them, Aphrodite-Anaitis stands as a shining example. Resulting from the Indo-Iranic goddess Anahita with the greek goddess Aphrodite, Aphrodite-Anaitis actually predates the Hellenistic invasion of Alexander the Great and her cult was only strengthened further afterward."
+
+ deity_mithra_baga:0 "$omen_mithra_baga$"
+ omen_mithra_baga:0 "Бага Митра"
+ omen_mithra_baga_desc:0 "Baga Mithra, is an Indo-Iranic deity popular in many faiths, and he is associated with truth, harvest, and plays a role in the ceremonies for the strengthening of the water.\n\nThough never mentioned by Zoroaster, the divinity plays an important role in the Zoroastrian faith, and thus, his version 'Mithra Baga' is for his Zoroastrian version specifically. It does not vary much from Mithra in the Mithraic faith, however, he is notably less central to Zoroastrianism which centers upon Azura Mazda instead, relegating Baga Mithra to a secondary role."
