@@ -111,6 +111,9 @@ base_window = {
 						}
 					}
 					vbox = {
+						layoutpolicy_horizontal = expanding
+					}
+					vbox = {
 						layoutpolicy_vertical = expanding
 						checkbox_entry = {
 							size = { 200 0 }
