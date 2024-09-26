@@ -1,5 +1,6 @@
 ﻿l_russian:
  # THIS FILE FIXES ORIGINAL I:R RUSSIAN TRANSLATION, NOT HMO MOD
+ CALL_OMEN_TOOLTIP:4 "Призвать $NAME|Y$ на $DURATION$ лет, заплатив $COST$, ради следующих преимуществ:\n$EFFECT$"
  diety_cels:0 "$omen_cels$" # easy to create localization for misspelled, than changing god itself
  PROV2475_celtae:0 "Лютеция Кельта"
  loyalty_corrupt_ruler:0 "Правитель злоупотребил полномочиями"

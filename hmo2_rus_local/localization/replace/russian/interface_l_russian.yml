@@ -1696,7 +1696,7 @@
  DEIFY_RULER_BUTTON_TT_DESC:1 "#TF Обожествлённые правители — это обычные правители, вознесённые до звания бога. Ваше население может поклоняться им, и их можно поместить в ваш [DEITYCATEGORY.GetName()|Y] пантеон. Ваш правитель будет предоставлять те же бонусы, что и [DEITY.GetName()|Y], а вот провозглашение знамения даст дополнительные преимущества. Но если божество надолго исчезнет из вашего пантеона, то ваш народ забудет о нём.#!"
  DEIFY_RULER_BUTTON_TT_REQS:0 "$TRIGGER$"
  DEIFY_RULER_TT:0 "[SelectPantheonDeityWindow.GetDeifyRulerTooltip]"
- DEIFIED_RULER_TEXT:1 "[SelectableDeity.GetDeity.GetName] \n [SelectableDeity.GetDeity.GetReligion.GetDescriptiveName] ([SelectableDeity.GetDeity.GetDeityCategory.GetName])"
+ DEIFIED_RULER_TEXT:1 "[SelectableDeity.GetDeity.GetName]\n[SelectableDeity.GetDeity.GetReligion.GetDescriptiveName] ([SelectableDeity.GetDeity.GetDeityCategory.GetName])"
  SELECT_DEITY_HEADER:0 "Выбрать божество"
  HOLY_SITE_TOOLTIP_MM:0 "[SimpleProvinceIcon.GetProvince.GetRank.GetName] провинции [SimpleProvinceIcon.GetProvince.GetName] — святое место для божества [SimpleProvinceIcon.GetProvince.GetProvincialDeity.GetName|Y] религии [SimpleProvinceIcon.GetProvince.GetProvincialDeity.GetReligion.GetName]."
  HOLY_SITE_TOOLTIP_PROVINCE:1 "[PROVINCE.GetRank.GetName] провинции [PROVINCE.GetName] — здесь находится [PROVINCE.Custom('temple_string')] религии [PROVINCE.GetProvincialDeity.GetReligion.GetName] для божества [PROVINCE.GetProvincialDeity.GetName|Y]."
