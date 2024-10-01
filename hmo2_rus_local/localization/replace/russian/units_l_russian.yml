@@ -12,3 +12,7 @@
  LEVY_NAME:0 "$GOVERNORSHIP$ $NUM$ ополчение"
  NAVY_NAME:0 "$NUM$ эскадра"
  MIGRANT_ARMY_NAME:0 "$ADJ$ое $NUM$ переселение"
+ SUB_STRENGTH_DAMAGE_TAKEN:0 "Получаемый урон численности: $VAL|-=%$\n"
+ SUB_MORALE_DAMAGE_TAKEN:0 "Получаемый урон боевому духу: $VAL|-=%$\n"
+ SUB_STRENGTH_DAMAGE_DONE:0 "Наносимый урон численности: $VAL|+=%$\n"
+ SUB_MORALE_DAMAGE_DONE:0 "Наносимый урон боевому духу: $VAL|+=%$\n"
