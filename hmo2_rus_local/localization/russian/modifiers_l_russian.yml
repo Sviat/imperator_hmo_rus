@@ -860,7 +860,7 @@
  MODIFIER_GLOBAL_IMPORT_COMMERCE_MODIFIER:0 "Стоимость импорта"
  MODIFIER_LOCAL_COMMERCE_MODIFIER:0 "Доход от торговли"
  MODIFIER_TRIBUTE_INCOME_MODIFIER:0 "Доход от дани"
- MODIFIER_RULER_POPULARITY_GAIN:1 "Ежемесячный рост популярности правителя"
+ MODIFIER_RULER_POPULARITY_GAIN:1 "Рост популярности правителя (в мес.)"
  MODIFIER_MONTHLY_CHARACTER_PROMINENCE:0 "Известность персонажа (в мес.)"
  MODIFIER_MONTHLY_CHARACTER_FAM_PRESTIGE:0 "Престиж рода (в мес.)"
  MODIFIER_SEDECUSE_COST:0 "Цена подкупа"
