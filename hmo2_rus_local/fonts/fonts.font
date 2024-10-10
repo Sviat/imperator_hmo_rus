@@ -1,6 +1,6 @@
-# Each font should specify what it is used for. 
-# Dont leave stray font in the game. If they are not used, remove them, or keep them but make comment. 
-# The name of the font, should not be the name of the source file, it should be named after its use. 
+# Each font should specify what it is used for.
+# Dont leave stray font in the game. If they are not used, remove them, or keep them but make comment.
+# The name of the font, should not be the name of the source file, it should be named after its use.
 
 fontfiles = {
     name = "OpenSans-Semibold"
@@ -92,7 +92,7 @@ fontfiles = {
 
 font = {
 	name = "Debug"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "OpenSans-Semibold"
@@ -102,17 +102,17 @@ font = {
 # Also used by GUI editor
 font = {
 	name = "standard_font"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "OpenSans-Semibold"
 	}
 }
 
-# Used by regular text	
+# Used by regular text
 font = {
 	name = "OpenSans"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "OpenSans-Semibold"
@@ -133,10 +133,10 @@ font = {
 }
 
 #fulhack - only used in JominiButton and should probably be removed from there.
-# Used by most titles 
+# Used by most titles
 font = {
 	name = "OpenSans_bold"
-	
+
 	fontstyle = {
 		style = regular
 		#fontfiles = "OpenSans-Bold"
@@ -147,7 +147,7 @@ font = {
 #Main font
 font = {
 	name = "BaseFont"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "lusitana_regular"
@@ -161,7 +161,7 @@ font = {
 
 font = {
 	name = "HeaderFont"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "IMFellDoublePicaSC-Regular"
@@ -171,7 +171,7 @@ font = {
 #MAP
 font = {
 	name = "map_province_name_font"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "Cinzel-Bold"
@@ -180,7 +180,7 @@ font = {
 
 font = {
 	name = "map_state_name_font"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "Cinzel-Bold"
@@ -189,7 +189,7 @@ font = {
 
 font = {
 	name = "map_country_name_font"
-	
+
 	fontstyle = {
 		style = regular
 		fontfiles = "Cinzel-Bold"
@@ -203,6 +203,11 @@ fontfiles = {
         languages = { "l_english" "l_french" "l_german" "l_spanish" "l_simp_chinese" }
         files = { "fonts/IMFellDoublePicaSC-Regular.ttf" "fonts/IMFellDoublePicaSC-Regular.ttf" "fonts/IMFellDoublePicaSC-Regular.ttf" }
         files = { "fonts/Cinzel-Bold.ttf" "fonts/NotoSansCJKsc-Regular.otf" "fonts/LusitanaCyr-Regular.ttf" }
+    }
+
+	group = {
+        languages = { "l_russian" }
+        files = { "fonts/LusitanaCyr-Regular.ttf" "fonts/Lusitana-Bold.ttf" "fonts/NotoSansCJKsc-Regular.otf" }
     }
 }
 
