@@ -1,9 +1,9 @@
 ﻿country_decisions = {
-	
+
 	# Puno-Gallic Republic
 	# Designed by Neidhardt, created by Neidhardt
 	form_puno_gallic_republic = {
-		
+
 		potential = {
 			num_of_cities >= 1
 			is_republic = yes
@@ -20,7 +20,7 @@
 				is_endgame_tag_trigger = yes
 			}
 		}
-		
+
 		highlight = {
 			scope:province = {
 				OR = {
@@ -34,7 +34,7 @@
 				}
 			}
 		}
-		
+
 		allow = {
 			custom_tooltip = {
 				text = puno_celtiberian_republic_not_exists
@@ -52,7 +52,7 @@
 					owns_or_subject_owns_area = cenomannia_area
 					owns_or_subject_owns_area = bituriga_occidentalis_area
 		}
-		
+
 		effect = {
 			custom_tooltip = "tier_2_formable_tooltip"
 			change_country_name = "PUNO_GALLIC_REPUBLIC_NAME"
@@ -63,9 +63,9 @@
 				change_country_flag = PUNO_GALLIC_REPUBLIC_FLAG
 				trigger_event = {
 					id = formable_heritage.174
-				}				
+				}
 			}
-			custom_tooltip = puno_celtiberian_republic_claims_tooltip
+			custom_tooltip = puno_gallic_republic_claims_tooltip
 			hidden_effect = {
 				region:lusitania_region = { formable_region_province_effect = yes }
 				region:tarraconensis_region = { formable_region_province_effect = yes }
@@ -79,7 +79,7 @@
 					formable_capital_modifier_normal_effect = yes
 			}
 		}
-		
+
 		ai_will_do = {
 			base = 1
 		}
