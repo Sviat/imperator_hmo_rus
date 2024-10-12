@@ -30,7 +30,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -139,7 +144,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -238,7 +248,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -338,7 +353,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -440,7 +460,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -544,7 +569,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -638,7 +668,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -731,7 +766,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -826,7 +866,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -930,7 +975,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1036,7 +1086,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1129,7 +1184,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1223,7 +1283,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1321,7 +1386,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1421,7 +1491,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1525,7 +1600,12 @@
 		effect = {
 			add_stability = -5
 			add_military_experience = -10
-			add_political_influence = -20
+			add_political_influence = {
+  				value = scope:target_culture.country_culture_pop_count
+  				multiply = -0.075
+  				max = -1
+				min = -500
+			}
 			culture_state_loyalty_effect = yes
 			scope:target_culture = {
 				add_country_culture_modifier = {
@@ -1618,17 +1698,23 @@
 			}
 		}
 		effect = {
-			add_political_influence = -20
+			add_political_influence = -25
 			custom_tooltip = recruit_talent_tt
 			ordered_owned_province = {
-				limit = { dominant_province_culture = scope:target_culture.culture }
-				order_by = total_population
-				ROOT = {
-					create_character = {
-						culture = scope:target_culture.culture
-						religion = prev.prev.religion
-					}
+				limit = {
+					dominant_province_culture = scope:target_culture.culture
 				}
+				order_by = total_population
+				dominant_province_culture = {
+					save_scope_as = char_target_culture_scope
+				}
+				dominant_province_religion = {
+					save_scope_as = char_target_religion_scope
+				}
+			}
+			trigger_event = {
+				id = character_introductions.2
+				days = -1
 			}
 			set_variable = {
 				name = recently_promoted_talent
