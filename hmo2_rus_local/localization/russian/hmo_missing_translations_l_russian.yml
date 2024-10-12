@@ -1,6 +1,12 @@
 ﻿l_russian:
  # THIS FILE FIXES HMO v2 MISSING TRANSLATION, NOT JUST RUSSIAN
+ promoted_talent_character:0 "Признанный талант"
  nile_republic_modifier:0 "Наследие Республики Нила"
  levantine_republic_modifier:0 "Наследие Левантийской Республики"
  magna_graecian_heritage_desc:0 "Наши предки указали нам путь вперед"
  magna_graecian_heritage:0 "Наследие Великой Греции"
+ form_marcomannia_bois_claims_tooltip:0 "Маркомания Бойи получит претензии на регионы #Y Верхняя Германия#! и #Y Великая Германия#! и #Y Вантали#!." # WRONG key in decisions\ml_formables\form_marcomannia_bois.txt, should be marcomannia_bois_claims_tooltip
+ form_illyria_claims_tooltip:0 "Иллирия получит претензии на регионы #Y Паннония#! и #Y Дакия#!." # probably wrong key in decisions\ml_formables\form_illyria_ml.txt, should be illyrian_claims_tooltip
+ desert_hills_combat_bonus:0 "Бонус к сражению на Пустынных холмах"
+ flood_plain_combat_bonus:0 "Бонус к сражению в Поймах рек"
+ oasis_combat_bonus:0 "Бонус к сражению в Оазисах"
