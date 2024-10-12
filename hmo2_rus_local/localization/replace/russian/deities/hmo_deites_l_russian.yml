@@ -1,0 +1,174 @@
+﻿l_russian:
+### HMO ###
+#Megalithic#
+ deity_xacab:0 "$omen_xacab$"
+ omen_xacab:0 "Хасаб"
+ omen_xacab_desc:0 "The revered god, Xacab, represents development and many travellers and traders make offerings to his temple so that financial success awaits them in life."
+
+#Cybellene#
+ deity_croesus:0 "$omen_croesus$"
+ omen_croesus:0 "Крёз"
+ omen_croesus_desc:0 "Great king of Lydia, under Croesus the Lydian kingdom reached its peak. Although the king was defeated by the Persian Cyrus the Great, he is still remembered and honored as a virtuous man of all Anatolia."
+
+ deity_manes:0 "$omen_manes$"
+ omen_manes:0 "Манес"
+ omen_manes_desc:0 "The legendary king Manes, son of Zeus and Gaia. Father of Atys and founder of the entire Lydian people."
+
+ deity_attix:0 "$omen_attix$"
+ omen_attix:0 "Аттикс"
+ omen_attix_desc:0 "Attix, the great priest of Cybele, served so well and was so righteous that he soon became revered himself."
+
+ deity_galli:0 "$omen_galli$"
+ omen_galli:0 "Галли"
+ omen_galli_desc:0 "The fanatical righteous Galli, was the founder of orgiastic dances, at the culmination of which they performed castration on themselves in ecstasy."
+
+#Zoroaster#
+ deity_darius:0 "$omen_darius$"
+ omen_darius:0 "Дарий I Великий"
+ omen_darius_desc:0 "Shah Darius was a major champion of the Zoroastrian religion. While his predecessors were more vague in their beliefs, preferring to toe the line between Zoroastrian and older Persian religions like Mithraic, the King of Kings considered his reign to be directly given to him by Ahura Mazda himself. And with that divine right, his legendary reign would leave him imortaized as 'Darius the Great,' surpassing all Persian Shahs save Cyrus himself."
+
+ deity_cyrus:0 "$omen_cyrus$"
+ omen_cyrus:0 "Кир II Великий"
+ omen_cyrus_desc:0 "Cyrus the Great Was the founder of the Achaemenid Empire. Hailing from Persis, he brought the Achaemenid dynasty to power by defeating the Median Empire and embracing all of the previous civilized states of the ancient Near East expanding vastly and eventually conquering most of West Asia and much of Central Asia to create what would soon become the largest polity in human history at the time.."
+
+ deity_mainyu:0 "$omen_mainyu$"
+ omen_mainyu:0 "Ангра-Майнью"
+ omen_mainyu_desc:0 "The spirit of discord, Angra Mainyu (also known as Ahriman) led the legions of dark spirits known as the daevas. His sole purpose was to disrupt the order established by Ahura Mazda and he would destroy whatever beauty Ahura Mazda."
+
+ deity_haaoma:0 "$omen_haaoma$"
+ omen_haaoma:0 "Хаома"
+ omen_haaoma_desc:0 "Haaoma was the god of the harvest, health, strength, and vitality and the power which gave the plant of the same name its potency. People prayed to Haaoma for strong sons."
+
+ deity_tiri_and_tishtrya:0 "$omen_tiri_and_tishtrya$"
+ omen_tiri_and_tishtrya:0 "Тири и Тиштрия"
+ omen_tiri_and_tishtrya_desc:0 "Tishtrya was the god of rains and the harvest who is sometimes given a twin, Tiri, god of agriculture."
+
+#Zalmoxian#
+ deity_kapnobatai:0 "$omen_kapnobatai$"
+ omen_kapnobatai:0 "Капнобатай"
+ omen_kapnobatai_desc:0 "Kapnobatai, an ancient priest, he is called the son of Thrax, divined the future and read the stars. He is honored as the guardian of the peace and the walls."
+
+ deity_polistai:0 "$omen_polistai$"
+ omen_polistai:0 "Полистай"
+ omen_polistai_desc:0 "Polistai descended from the heavens and gave the Geth people the first cities, honored since ancient times, represents construction as well as charity."
+
+ deity_ktistai:0 "$omen_ktistai$"
+ omen_ktistai:0 "Ктиштай"
+ omen_ktistai_desc:0 "Ktistai is the chief divine spirit-poet of all followers of Zalmoxis, it is said if you meet him late at night you will not be out of luck for the rest of your life."
+
+ deity_hestia:0 "$omen_hestia$"
+ omen_hestia:0 "Гестия"
+ omen_hestia_desc:0 "Девственная богиня очага, правильного устройства домашнего хозяйства, семьи, дома и государства, Гестия была первенцем титанов Кроноса и Реи.\n\nВ греческой культуре Гестия обычно получала первое приношение при каждом жертвоприношении в доме.\n\nВ общественных местах очаг в пританеуме служил ее официальным святилищем, а при основании новой колонии в новое поселение переносилось пламя из общественного очага Гестии в материнском городе." # deities\deities_hellenic_inv_1_0_l_russian.yml
+
+ deity_orfeu:0 "$omen_orfeu$"
+ omen_orfeu:0 "Орфей"
+ omen_orfeu_desc:0 "Orpheus, the hermaphrodite prophet, is known for his duplicity in prosperity and theology."
+
+#Hellenic_Illyrian#
+ deity_the_kuker:0 "$omen_thekuker$"
+ omen_thekuker:0 "Кукер"
+ omen_thekuker_desc:0 "A mythical being, the Kuker protected communities from evil spirits and misfortune. It was usually depicted wearing a mask and a colorful costume, embodying the powerful presence necessary to ward off malevolent forces"
+
+ deity_cadmus:0 "$omen_cadmus$"
+ omen_cadmus:0 "Кадмус"
+ omen_cadmus_desc:0 "A legendary hero, Cadmus was said to have introduced the alphabet and writing to the Illyrians. He was also credited with founding the city of Thebes in Greece, reflecting the cultural exchange between the two regions"
+
+ deity_thedrakon:0 "$omen_thedrakon$"
+ omen_thedrakon:0 "Дракон"
+ omen_thedrakon_desc:0 "A serpent-like creature, the Drakon was a fearsome symbol of chaos and destruction. It featured prominently in Illyrian myths, often as an antagonist that required the intervention of a hero or deity to restore order."
+
+ deity_apollodrakania:0 "$omen_apollodrakania$"
+ omen_apollodrakania:0 "Апполон Дракания"
+ omen_apollodrakania_desc:0 "A legendary creature, son of a dragon and Apollo, patron of sea traders."
+
+#IBERIC#
+ deity_bandua:0 "$omen_bandua$"
+ omen_bandua:0 "Бандуя"
+ omen_bandua_desc:0 "Bandua or Bandi, their name appears in numerous dedications, mostly to a male deity. The deity was probably the protector of the local community."
+
+ deity_bormanicus:0 "$omen_bormanicus$"
+ omen_bormanicus:0 "Борманикус"
+ omen_bormanicus_desc:0 "Bormanicus, god of hot springs."
+
+ deity_cossus:0 "$omen_cossus$"
+ omen_cossus:0 "Кос"
+ omen_cossus_desc:0 "Cossus, warrior god, who attained great popularity among the Southern Gallaeci, was one of the most revered gods in ancient Gallaecia."
+
+ deity_reue:0 "$omen_reue$"
+ omen_reue:0 "Реу"
+ omen_reue_desc:0 "Reue, god of the sky, daylight, thunderstorm of the Iberians."
+
+#ARMAZIC#
+ deity_zadeni:0 "$omen_zadeni$"
+ omen_zadeni:1 "Задени"
+ omen_zadeni_desc:2 "Божество Задени покровительствует войне и плодовитости, и наши воины часто призывают его перед боем. Обычно он является с цветком или секирой в руках в сопровождении крылатого льва. Греки знают его под именем Геракла." # Why redefine vanilla lines?
+
+ deity_armazi:0 "$omen_armazi$"
+ omen_armazi:1 "Армази"
+ omen_armazi_desc:2 "Армази — бог дождя, грома, погоды и изобилия. В доспехах и с мечом в руке, он вдохновляет своих последователей. Зороастрийцы почитают его как Ахурамазду, а греки — под именем Зевса." # Why redefine vanilla lines?
+
+ deity_kopala:0 "$omen_kopala$"
+ omen_kopala:1 "Копала"
+ omen_kopala_desc:2 "Великий герой, подвиги которого воспевает наш народ. Величайшее же из его деяний — победа над дэвами-девеби, которых после поражения заточили под землёй." # Why redefine vanilla lines?
+
+ deity_gacim:0 "$omen_gacim$"
+ omen_gacim:1 "Гаим"
+ omen_gacim_desc:2 "Гаим — спутник Гаци, бог плодородия. Считается, что двое этих божеств владеют всеми секретами мира и плетут судьбы человеческие. Некоторые сопоставляют Гаима с анатолийским Аттисом." # Why redefine vanilla lines?
+
+ deity_ghmerti:0 "$omen_ghmerti$"
+ omen_ghmerti:1 "Гмерти"
+ omen_ghmerti_desc:2 "Гмерти — глава пантеона, первый среди богов и владыка вселенной. Он отец солнца и луны и нескольких других божеств нашего пантеона. Он творец всего сущего, а жизни людей и животных в его руках." # Why redefine vanilla lines?
+
+ deity_ga:0 "$omen_ga$"
+ omen_ga:1 "Гаци"
+ omen_ga_desc:2 "Гаци — спутница Гаима, мать-богиня. Считается, что двое этих божеств владеют всеми секретами мира и плетут судьбы человеческие. Некоторые сопоставляют Гаци с анатолийской Кибелой." # Why redefine vanilla lines?
+
+ deity_adgilis_deda:0 "$omen_adgilis_deda$"
+ omen_adgilis_deda:1 "Адгилис деда"
+ omen_adgilis_deda_desc:2 "Адгилис деда — богиня плодородия и скота. Она ведает урожаем и стадами, а также защищает путников, пришедших в наши земли. Часто её называют главнейшей богиней суровых гор Иберии." # Why redefine vanilla lines?
+
+ deity_dali:0 "$omen_dali$"
+ omen_dali:1 "Дали"
+ omen_dali_desc:2 "Дали — прекрасная богиня, обитающая высоко в горах Кавказа, покровительница охоты. Охотники почитают её верховной богиней и ищут её милости, вступая в её царство. Лишь она может послать им желанную добычу." # Why redefine vanilla lines?
+
+ ## Ainina and Danina, event made omens ##
+ deity_ainina_and_danina:0 "$omen_ainina_and_danina$"
+ omen_ainina_and_danina:1 "Айнина и Данина"
+ omen_ainina_and_danina_desc:2 "Айнина и Данина — две богини, довольно поздно вошедшие в пантеон культа Армази. Часто они ассоциируются с плодородием, врачеванием и мудростью. Существует культ в их честь. Иногда их отождествляют с Анаит или Инанной." # Why redefine vanilla lines?
+
+ deity_vakhs:0 "$omen_vakhs$"
+ omen_vakhs:1 "Вакхш"
+ omen_vakhs_desc:2 "Vakhs, the deity of horses, instils fear in his enemies and grace in his subordinates."
+
+ deity_kuara:0 "$omen_kuara$"
+ omen_kuara:1 "Куара"
+ omen_kuara_desc:2 "A powerful priestess, exalted to the highest powers by her justice and fury in battle."
+
+ deity_izamra:0 "$omen_izamra$"
+ omen_izamra:1 "Изамра"
+ omen_izamra_desc:2 "The second face of the great essence of Armazi, Izamra, embodies all the darker essences of the deity, and also has its devotees."
+
+ deity_ag:0 "$omen_ag$"
+ omen_ag:1 "Аг"
+ omen_ag_desc:2 "Great Ag, the protector of the common people, is just as honoured by the slaves."
+
+ deity_aded:0 "$omen_aded$"
+ omen_aded:1 "Адэд"
+ omen_aded_desc:2 "Aded, the god of smiles. If you are sad, smile."
+
+#ARABIC#
+ deity_ara:0 "$omen_ara$"
+ omen_ara:0 "А'ра"
+ omen_ara_desc:0 "A'ra, known in Greek as Aarras, is a north Arabian tutelary god known from inscriptions in Bosra. The name implies a holy place or an altar, but its Arabic root also means "to dye". It is implied that many sacrifices were offered to the cult image, staining it with blood.Equated with the Nabataean Dushara who was also worshipped as Dushara-A'ra."
+
+ deity_abgal:0 "$omen_abgal$"
+ omen_abgal:0 "Абгаль"
+ omen_abgal_desc:0 "Abgal is a tutelary god worshipped by nomads and a tutelary god of the Arabs of the Palmyra region."
+
+ deity_abirillu:0 "$omen_abirillu$"
+ omen_abirillu:0 "Абириллу"
+ omen_abirillu_desc:0 "Abirillu is a god mentioned in an Assyrian inscription."
+
+ deity_arsu:0 "$omen_arsu$"
+ omen_arsu:0 "Арсу"
+ omen_arsu_desc:0 "Arsu is a northern Arabian god worshipped in Palmyra. He personifies the evening star, while the morning star is personified by Azizos, and he is associated with horses and camels. He is equated with Ruda, who was worshipped elsewhere in northern Arabia."
