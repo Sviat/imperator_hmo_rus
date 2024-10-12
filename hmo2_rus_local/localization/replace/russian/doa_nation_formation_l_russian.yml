@@ -895,7 +895,7 @@
  formable_macromannia_bois:0 "Маркоманния Бойи"
  MARCOMANNIA_BOIS_NAME:0 "Маркоманния Бойи"
  MARCOMANNIA_BOIS_ADJECTIVE:0 "Маркоманнск"
- macromannia_bois_not_exists:0 "#Y Маркоманния Бойи#! НЕ существует."
+ marсomannia_bois_not_exists:0 "#Y Маркоманния Бойи#! НЕ существует."
 
  #Puno-Numidian Republic
  form_puno_numidian_republic:0 "Образовать Пунно-Нумидийскую Республику"
