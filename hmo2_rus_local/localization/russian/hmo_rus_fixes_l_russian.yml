@@ -15,3 +15,4 @@
  generic_infra_mission.12.d:0 "Политика расселения в городе [SCOPE.sP('governorship_capital').GetName] принесла свои плоды. С притоком поселенцев и после принятия их местными, [ROOT.GetCountry.GetPrimaryCulture.GetName] культура здесь процветает, а поселение всё больше начинает походить на великие города нашей родины."
  provincial_events.1.a:0 "[ROOT.GetCountry.GetPrimaryCulture.GetName] — вот культура, которую мы поддержим."
  rel_flavor_thracian.3.t:0 "Святилище для божества по имени [ROOT.GetCountry.Custom('get_hero_god')]"
+ POP_MOVE_THIS:0 "Отправьте не менее 8 $TYPE|Y$ с религией $RELIGION$ и культурой [CULTURE.GetName] из провинции $FROM|Y$ в провинцию $WHERE|Y$, чтобы основать новую колонию за $COST$."
