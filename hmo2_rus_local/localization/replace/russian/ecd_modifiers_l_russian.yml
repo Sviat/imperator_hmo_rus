@@ -18,8 +18,6 @@
  too_many_steppes:0 "Народы степей не должны сражаться за страну"
  too_many_germans:0 "Германцы не должны сражаться за страну"
 
- # patronizing_XX_literature - mod affects CountryCulture
- # impressive_XX_culture_literature - mod affects whole Country
  patronizing_greek_literature:0 "Покровительствуем греческой культуре"
  desc_patronizing_greek_literature:0 "В настоящее время мы покровительствуем греческому искусству, литературе и архитектуре, сближая наши два народа."
  impressive_greek_culture_literature:0 "Покровительство греческой литературе и искусству"
@@ -152,7 +150,9 @@
  brilliant_foreign_admin_character:0 "Иностранный управляющий"
  debutante_character:0 "Дебютантка"
  petty_noble_character:0 "Мелкий дворянин"
- promoted_talent_character:0 "Признанный талант" # Missing from HMO Localizations
+ assimilation_character:0 "Человек культуры"
+ conversion_character:0 "Человек религии"
+
 
  delusional:0 "Помешанный"
  drunkard:0 "Пьяница"
@@ -180,6 +180,7 @@
  purging_bureaucrats:0 "Борьба с коррупцией"
  loved_by_the_gods:0 "Облагодетельствованный богами"
  unloved_by_the_gods:0 "Отвергнутый богами"
+ petty_noble_nation:0 "Иностранные учителя"
 
  grand_assault_mod:0 "Яростный штурм"
  grand_siege_mod:0 "Великая осада"

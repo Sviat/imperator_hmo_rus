@@ -344,8 +344,11 @@
  character_introductions.1.a:0 "Она может свернуть горы"
 
  character_introductions.2.t:0 "Новое лицо при дворе"
- character_introductions.2.desc:0 "Этот человек готов служить государству"
- character_introductions.2.a:0 "Мы сами с вами свяжемся"
+ character_introductions.2.desc:0 "Четверо добровольцев готовых послужить стране откликнулись на призыв. Но только один из них сможет доказать свою полезность."
+ character_introductions.2.a:0 "Нам нужен стратег"
+ character_introductions.2.b:0 "Неплохо бы иметь администратора"
+ character_introductions.2.c:0 "Боги будут рады жрецу"
+ character_introductions.2.d:0 "С дипломатами у нас конечно беда "
 
  character_introductions.3.t:0 "Начинающий командир"
  character_introductions.3.desc:0 "Этот воин недавно отличился на поле боя"

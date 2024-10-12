@@ -120,11 +120,22 @@
  pandered_project:0 "Поощрение меньшинств"
  pandered_project_desc:0 ""
 
+ protection_against_torture_integrated:0 "Защита от пыток"
+ protection_against_torture_integrated_desc:0 "Попытка не пытка"
+
  create_petty_nobles:0 "Потакать мелким дворянам"
  create_petty_nobles_desc:0 "Льстить падшему дворянству этого подданного народа, помогая ему удержать былую славу"
  petty_noble_tt:0 "Польстите падшему дворянству культуры #Y [SCOPE.sCountryCulture('target_culture').GetCulture.GetName]#!, помогая им сохранить былую славу."
  no_current_petty_noble:0 ""
  no_current_petty_noble_other:0 ""
+
+ official_language:0 "Продвигать официальный язык"
+ official_language_desc:0 "Если постепенно приучить эти братские народы к нашему языку, обычаям и традициям, со временем между нами трудно будет найти хоть какие-то различия."
+
+ official_language_mod:0 "Официальный язык установлен"
+ extended_official_language:0 "Закрепить грамматику"
+ official_language_state:0 "Обучение единому языку"
+
 
  social_change:0 "Социальные изменения"
  social_change_desc:0 "Стань тем изменением, которое ждёшь от мира"
