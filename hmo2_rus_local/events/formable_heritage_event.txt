@@ -2228,7 +2228,7 @@ formable_heritage.54 = {
 		# EFFECT
 		show_as_tooltip = {
 			add_country_modifier = {
-				name = italian_heritage # HMO RUS FIX TO HMO
+				name = italian_modifier # HMO RUS FIX TO HMO
 				#duration = -1
 			}
 		}
