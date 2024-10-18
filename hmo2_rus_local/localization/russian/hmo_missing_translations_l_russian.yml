@@ -10,3 +10,7 @@
  desert_hills_combat_bonus:0 "Бонус к сражению на Пустынных холмах"
  flood_plain_combat_bonus:0 "Бонус к сражению в Поймах рек"
  oasis_combat_bonus:0 "Бонус к сражению в Оазисах"
+ treasure_stash:0 "Учение о Медитации" # Previously $treasure_dafoogles_stash$, now $relic_gift_event.29.t$
+ treasure_stash_desc:0 "Сделает тебя медленным, но счастливым. #TF(Мем сервера Molon Labe, оставлен без перевода)#! \nThis will slow you down but you'll feel better." # Previosly $treasure_dafoogles_stash_desc$, now $relic_gift_event.29.desc$
+ treasure_popes_tips:0 "$treasure_popes_box$"
+ treasure_popes_tips_desc:0 "$treasure_popes_box_desc$"
