@@ -1,0 +1,14 @@
+
+greco_bactrian_kingdom_heritage = {
+	modifier = {
+		#good
+		global_slaves_output = 0.06 # was 0.6
+		global_pop_assimilation_speed_modifier = 0.1
+
+		#bad
+		agressive_expansion_impact = 0.1
+	}
+	trigger = {
+		tag = GBK
+	}
+}
