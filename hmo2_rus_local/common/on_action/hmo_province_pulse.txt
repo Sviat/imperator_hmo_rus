@@ -1,0 +1,24 @@
+﻿hmo_province_pulse = {
+	on_actions = {
+		hmorus_autotrade
+	}
+	events = {
+	}
+	random_events = {
+		90 = 0
+		10 = slave_revolts.6
+	}
+}
+
+# HMO RUS auto-trading fix, <s>stolen from</s> inspired by https://steamcommunity.com/sharedfiles/filedetails/?id=3397197029
+hmorus_autotrade = {
+	effect = {
+		if = {
+			limit = {
+				is_state_capital = yes
+				NOT = { this = owner.capital_scope }
+			}
+			state = { set_automated_trading = yes }
+		}
+	}
+}
